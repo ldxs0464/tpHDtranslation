@@ -1,0 +1,5000 @@
+Checking Memory Card in Slot A...
+No Memory Card found in Slot A.<N>Please insert a Memory Card into<N>Slot A.<N>
+The Memory Card in Slot A is damaged<N>and cannot be used.
+The wrong device is inserted in<N>Slot A. Please insert a Memory Card.
+Unable to use the Memory Card in<N>Slot A.
+The Memory Card in Slot A is<N>corrupted. Would you like to format<N>the Memory Card in Slot A?
+Yes
+No
+There is insufficient space on the<N>Memory Card in Slot A. The Legend of<N>Zelda: Twilight Princess requires 1<N>file and 4 blocks to create a new save<N>file.
+Either insert a Memory Card with<N>free space into Slot A or manage<N>the Memory Card contents on the<N>Memory Card Screen.
+Memory Card formatting may have<N>failed.
+Formatting complete.
+Formatting...<N>Please do not touch the Memory Card<N>in Slot A or the POWER Button.
+Formatting will erase any data<N>currently stored on the Memory Card<N>in Slot A. Format anyway?
+Yes
+No
+The Memory Card in Slot A cannot be<N>used.
+Would you like to manage the<N>contents of your Memory Card on the<N>Memory Card Screen?
+Continue without saving?
+Yes
+No
+Would you like to create a save file<N>for this game on the Memory Card<N>inserted in Slot A?
+Yes
+No
+There is no save file for this game<N>stored on the Memory Card in Slot A.
+There may have been an error<N>creating a save file.
+Creating a save file.<N>Please do not touch the Memory Card<N>in Slot A or the POWER Button.
+Save file created.
+Unable to save. Cannot find a Memory<N>Card in Slot A. Please check if a<N>Memory Card is inserted.
+Unable to save. The Memory Card in<N>Slot A cannot be used. Insert another<N>Memory Card into Slot A.
+Unable to save. There is something<N>besides a Memory Card inserted in<N>Slot A. Please insert a Memory Card.
+Unable to save. The Memory Card in<N>Slot A is not compatible with this<N>game. Please insert a compatible<N>Memory Card into Slot A.
+Unable to save. Unable to find a<N>Memory Card in Slot A. Please check<N>to see that a Memory Card is<N>inserted in Slot A.
+Unable to save. The data on the<N>Memory Card in Slot A is corrupted<N>and will have to be erased.<N>Do you want to erase the corrupted<N>data?
+Yes
+No
+Unable to save. Unable to find a<N>Memory Card in Slot A. Please check<N>that there is a Memory Card inserted.
+Unable to save. Either there isn't<N>enough open space on the Memory<N>Card in Slot A or you have exceeded<N>the file limit. You need one file and<N>4 blocks to save this game.
+Either insert a Memory Card with<N>enough space or organize the data on<N>the Memory Card screen.
+An error may have occurred while<N>formatting.
+Formatting complete.
+Formatting.<N><N>Do not touch the Memory Card or<N>the POWER button.
+If you format, all the data on the<N>Memory Card will be erased.<N>Is this OK?
+Yes
+No
+Unable to save. You cannot use the<N>Memory Card in Slot A to save this<N>game. Please insert a compatible<N>Memory Card into Slot A.
+Your progress will not be saved.<N>Is this OK?
+Yes
+No
+Open the Memory Card screen of the<N>console menu? (You may also open<N>the Memory Card screen by powering<N>down, then powering back on while<N>holding down the A Button.)
+There is no The Legend of Zelda:<N>Twilight Princess save file on the<N>Memory Card in Slot A. This game<N>requires 1 file and 12 blocks to save.<N>Would you like to create a save<N>file on the Memory Card in Slot A?
+Yes
+No
+Unable to save. The Memory Card in<N>Slot A does not have a file in which<N>to save this game.
+Creating a file.<N><N>Do not touch the Memory Card in<N>Slot A or the POWER Button.
+An error might have occurred when<N>the file was being created.
+The file has been created.
+Saving...
+Unable to save. The Memory Card in<N>Slot A is different from the one that<N>was inserted before.
+Save complete. Would you like to<N>continue the game?
+Yes
+No
+An error might have occurred while<N>saving.
+Quest Log 1
+Quest Log 2
+Quest Log 3
+Choose a Quest Log
+Copy to where?
+Overwrite with this Quest Log?
+Copying...
+Copy complete.
+An error might have occurred while<N>copying...
+Erase this Quest Log?
+Erasing...
+Erased.
+An error might have occurred while<N>erasing...
+New Quest Log
+
+
+
+This Quest Log is<N>corrupted.
+Erase corrupted Quest Log?
+Do not touch the Memory Card in<N>Slot A or the POWER Button.
+åTç‰
+   Ç¨ó 
+Copy
+Erase
+Start
+Item Quest Logs
+Set to , , or 
+Save to Quest Log
+Options
+Info
+åTç‰
+Options
+Save Game
+Items
+Minimap
+Change settings with<N>, , , and  on the .
+PRESS START
+Currently playing on Wii U GamePad.<N>Press  to return to TV mode.
+You got a Rupee!
+You got 5 Rupees!
+You got 10 Rupees!
+You got 20 Rupees!
+You got 50 Rupees!
+You got 100 Rupees!
+You got 200 Rupees!
+You borrowed the bomb bag!<N>There are some bombs inside.<N><N><N>Combine bombs with the Hero's<N>Bow to use bomb arrows.
+You got a bomb bag & bombs!<N>You can carry around one of the<N>various bomb types with this.
+You got bombs (5)!<N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got bombs (10)!<N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got bombs (20)!<N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got bombs (30)!<N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got arrows (10)!<N>Use arrows to shoot far-off<N>foes!
+You got arrows (20)!<N>Use arrows to shoot far-off<N>foes!
+You got arrows (30)!<N>Use arrows to shoot far-off<N>foes!
+
+You got seeds (50)!<N>Use them with your slingshot!
+You found the stamp for the Hylian letter A!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter B!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter C!<N>Check out your stamps on the Collection<N>screen.
+You got water bombs (5)!<N>You can use these bombs in<N>water, but not while swimming.<N><N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got water bombs (10)!<N>You can use these bombs in<N>water, but not while swimming.<N><N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got water bombs (15)!<N>You can use these bombs in<N>water, but not while swimming.<N><N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got water bombs (3)!<N>You can use these bombs in<N>water, but not while swimming.<N><N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got bomblings (5)! Set to<N>and use with , , or . They'll go<N>forward and explode if they hit<N>something or after a while.
+You got bomblings (10)! Set to<N>and use with , , or . They'll go<N>forward and explode if they hit<N>something or after a while.
+You got bomblings (3)! Set to<N>and use with , , or . They'll go<N>forward and explode if they hit<N>something or after a while.
+
+You caught a fairy in a bottle!<N>It will come to your aid with<N>hearts if your health runs out.<N><N>Set it to and use it with , , or ,<N>and it will restore 8 hearts.
+
+You got a small key!<N>This will open a locked door,<N>but only in this area.
+You got a Piece of Heart!<N>Collect 5 pieces to form a new<N>Heart Container and increase<N>your life energy!
+You got a Heart Container!<N>Your life energy has increased<N>by one and been fully<N>replenished!
+You got the dungeon map!<N>Press  to view the map.<N>Green rooms are ones you've<N>visited.<N>The yellow arrow shows your<N>current location. Tilt  to<N>change floors.
+You got the compass!<N>This handy tool will show you<N>where to find objects hidden<N>in this dungeon.<N>Check the map screen to look<N>for them!
+You met Ooccoo!<N>If you call her in a dungeon,<N>she will let you out and allow<N>you to return when you want.<N>Set her to and use her with<N>, , or .
+You got the big key!<N>Use it to gain access to the<N>lair of this dungeon's boss!
+
+You got the Ordon sword!<N>This is a sword crafted by Rusl,<N>the best swordsman in Ordon,<N>as a tribute to the royal family.
+You got the Master Sword!<N>Only the true hero can wield<N>this legendary weapon!
+You got the Ordon shield!<N>Press  to defend yourself,<N>but beware: if it's touched by<N>fire, it will burn.
+You got the wooden shield!<N>Press  to defend yourself,<N>but beware: if it's touched<N>by fire, it will burn!
+You got the Hylian shield!<N>Press  to defend yourself.<N>It's metal and will never burn.
+Aim
+1st Person
+3rd Person
+You got the magic armor!<N>You bought it! You are smart!<N>You bought it at Malo Mart!<N><N>Wear it and your Rupees will<N>become magical. The armor will<N>protect you, so if you get hit,<N>you lose Rupees, not health.<N>If you run out of Rupees, the<N>armor will go dormant and your<N>movement will become impaired.
+You got Zora armor!<N>This special garment was<N>handed down through the Zora<N>royal family.<N>If you have it equipped, you can<N>move freely through the water...<N>but you will be more vulnerable<N>to fire and ice attacks.
+
+You reunited with Ooccoo!<N>This kind character will let you<N>out of the dungeon and return<N>you to where you were.<N>Set her to and call her with<N>, , or .
+LOCK ON
+You got the big wallet!<N>You can now hold up to<N>1,000 Rupees!
+You got the giant wallet!<N>You can now hold up to<N>2,000 Rupees!
+You got a Piece of Heart!<N>Collect 3 more for another full<N>Heart Container.
+You got a Piece of Heart!<N>Collect 2 more for another full<N>Heart Container.
+You got a Piece of Heart!<N>Collect 1 more for another full<N>Heart Container.
+You got a Piece of Heart!<N>You collected 5 pieces and<N>formed a new Heart Container!<N>It also filled your life energy!
+You found the stamp for the Hylian letter D!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter E!<N>Check out your stamps on the Collection<N>screen.
+You got the coral earring!<N>It's made of precious coral from<N>Zora's Domain. It's in the shape<N>of a fishhook. It's lovely!<N>It's been added as a hook for<N>your fishing rod! With this,<N>you can now catch reekfish!
+You got the Hawkeye!<N>This handy scope excels at<N>zooming in on distant objects.<N>Set it to and use it with , , or .<N>Combine it with the Hero's Bow<N>on the Items screen to zoom<N>in on distant objects and shoot<N>them with your arrows.
+You got the wooden sword!<N>Rusl returned it after honing it<N>for you. It's easy to use: just<N>press !
+You got the Gale Boomerang!<N>This mysterious boomerang<N>houses the Fairy of Winds. It<N>sucks things up with gale force.<N>On the Items screen, set it to<N>, , or . While holding the<N>button, use  to lock on to<N>places where you see .<N>Lock on to as many as 5 targets<N>at once!
+You got the Spinner!<N>This ancient machine allows you<N>to float in the air.<N><N>Set it to , , or  and get on top<N>of it to move over sand and on<N>wall rails.<N><N>Press the assigned button while riding<N>to attack enemies with spin power.
+You got the Ball and Chain!<N>This giant iron ball has<N>incredible power!<N><N>Set it to , , or  and swing to<N>cause serious damage.
+You got the Hero's Bow!<N>This treasure of the Gorons is<N>said to have once belonged to<N>a Hero from the past.<N>Set it to , , or  on the Items screen,<N>and shoot with the assigned button. Aim at<N>targets with  or , and<N>press the assigned button to shoot.<N>You can carry up to 30 arrows.
+You got the Clawshot!<N>This is a claw at the end of a<N>long chain. Hold it with , , or ,<N>aim with  or , and release to fire.<N>Latch on to places where you<N>see  to jump great distances.<N>Use  while hanging from the<N>ceiling to move up and down.
+You got the Iron Boots!<N>Set them to and wear them with<N>, , or , and you'll become so heavy,<N>not even a Goron will be able to move you!
+You got the Dominion Rod!<N>This amazing rod can infuse<N>ancient statues with life.<N><N>Hold it with , , or , aim with<N> or , and use it to give light and<N>life to statues.<N><N>A statue brought to life will<N>move like its master.
+You got another Clawshot!<N>Combined with the one that you<N>already have, they're called the<N>Double Clawshots!<N>Hold them with , , or , aim<N>with  or , and release the button<N>to fire. Use it while hanging on<N>to another spot to fire again!
+You got the lantern!<N>This is a must for lighting dark<N>places. Set it to , , or  on the<N>Items screen to use it.<N>Use it once to light it, and press<N> while standing still to put it<N>out. Use it while lit to set<N>things on fire.<N>You won't be able to use it<N>without oil, so make sure to<N>refill it.
+Light filled the Master Sword!<N>Its blade glows with a golden<N>light in the Twilight Realm. With<N>it, you can cut through dark fog!
+You got a fishing rod!<N>A simple fishing rod with a<N>bobber. Set it to , , or  on the<N>Items screen to use it.<N>Face the water and use it to cast.<N>Press and hold the assigned button<N>to pull the line in when you get a bite.<N><N>You can catch fish without bait,<N>but you'll catch a larger variety<N>of fish with bait.
+You got the slingshot!<N>Children LOVE this item.<N>You can hold up to 50 pellets.<N><N>Set it to , , or  on the<N>Items screen to use it. Aim with<N> or , and press the button to fire.<N>Target with  for accuracy.
+You got the colossal wallet!<N>It can hold up to 9,999 Rupees!<N>How...how can it hold so many?
+You found the stamp for the Hylian letter F!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter G!<N>Check out your stamps on the Collection<N>screen.
+You got giant bomb bags!<N>You can hold twice as many<N>bombs as before!<N><N>The exact number they can hold<N>depends on the kind of bomb.
+You got a bag with bombs!<N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got a bag with bombs!<N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.<N>Once empty, you can carry one<N>of the various bomb types in<N>it! The number of bombs it will<N>hold depends on the bomb type.
+You found the stamp for the Hylian letter H!<N>Check out your stamps on the Collection<N>screen.
+
+
+You got the big quiver!<N>It can hold up to 60 arrows!
+You got the giant quiver!<N>It can hold up to 100 arrows!
+You found the stamp for the Hylian letter I!<N>Check out your stamps on the Collection<N>screen.
+Basic
+Intermediate
+Advance
+HUD
+GamePad Only
+
+
+
+You got an empty bottle!<N>Use it by setting it to , , or .<N><N><N>You can use this to hold water<N>or anything else you need.
+You got some red potion!<N>Drink it with , , or  to<N>replenish 8 hearts.
+
+You got some blue potion!<N>Set it to and use it with , , or  <N>to replenish all of your hearts.
+You got milk! <N>One bottle holds two helpings!<N>Drink it with , , or  to<N>replenish three hearts. 
+You got milk in a bottle!<N>...But this bottle's half-empty!<N>Set it to and use it with , , or  <N>to replenish 3 hearts!<N>Store things in an empty bottle<N>by pressing , , or  to swing it.
+You got lantern oil in your<N>bottle! This is essential for<N>lighting your lantern.<N><N>To fill your lantern with fuel,<N>set the lantern and the oil<N>to , , or  and then use the oil.
+You put water in your bottle!<N>Use it with , , or  to sprinkle it<N>on various things.
+You got lantern oil in your<N>bottle! This is essential for<N>lighting your lantern.<N><N>To fill your lantern with fuel,<N>set the lantern and the oil<N>to , , or  and then use the oil.
+You put red potion in the bottle!<N>Set it to and use it with , , or  <N>to replenish 8 hearts!
+You put nasty soup in the<N>bottle! This is Coro's "special"<N>recipe.<N><N>Set it to and use it with , , or .<N>The only way to find out what<N>it tastes like is to drink it.
+You put hot springwater in a<N>bottle! It's full of nutrients, but<N>drink it while it's warm.<N><N>Set it to and drink it with , , or <N>to replenish all your hearts!<N>If it cools, it will be plain water.
+You caught a fairy in a bottle!<N>It will come to your aid with<N>hearts if your health runs out.<N><N>Set it to and use it with , , or ,<N>and it will restore 8 hearts.
+You got hot springwater!<N>It's full of nutrients, but<N>drink it while it's hot.<N><N>Set it to and use it with , , or <N>to replenish all of your hearts.<N>If it gets cold, it'll just be<N>ordinary water.
+You got oil in your lantern!<N>With this filled, you'll be safe<N>all night.
+You got oil in your lantern!<N>With this filled, you'll be safe<N>all night.
+You got bombs!<N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got water bombs!<N>Use these bombs underwater,<N>but not while swimming!<N><N>Lift one with , , or , and press<N> to set it down. Press  while<N>running to throw one.
+You got bomblings!<N>Use one with , , or , and it will<N>move around and explode when<N>it hits something or after a while.
+You got the Great Fairy's Tears!<N>This sacred water contains the<N>Great Fairy's prayers.<N><N>Set it to , , or  and drink it to<N>replenish life energy...and, for<N>a while, boost attack strength!
+You caught a worm in a bottle!<N>Fish love these! Set the fishing<N>rod and worm to , , or  and<N>use the worm to bait the rod.
+You got the Great Fairy's Tears!<N>This bottle holds sacred water<N>that contains the Great Fairy's<N>prayers.<N>Set it to , , or  and drink it to<N>replenish life energy...and, for a<N>while, boost attack strength!
+You caught bee larvae in your<N>bottle! Fish love them, and<N>they're also edible and full of<N>nutrients.<N>To bait a rod, set your rod and<N>the larvae to , , or  and use<N>the larvae.<N><N>Use them when the rod is not<N>equipped to eat them and<N>replenish 1/4 heart per larva.
+You put rare Chu Jelly in your<N>bottle!<N><N><N>Set it to , , or  and drink it to<N>replenish all life energy...and,<N>for a while, boost attack<N>strength!
+You put red Chu Jelly in your<N>bottle! Set it to , , or  and<N>drink it to replenish 8 hearts.
+You put blue Chu Jelly in your<N>bottle! Set it to , , or  and<N>drink it to replenish all hearts!
+You put green Chu Jelly in your<N>bottle! It doesn't look all that tasty...
+You put yellow Chu Jelly in your<N>bottle! Set it and the lantern to<N>, , or  and then use it to refill<N>your lantern.
+You put purple Chu Jelly in your<N>bottle! You can set it to , , or <N>and drink it, but who knows<N>what will happen...
+You put simple soup in your<N>bottle! It smells like fish broth.<N>Set it to and drink it with ,<N>, or  to replenish 2 hearts!
+You put good soup in your<N>bottle! It smells like pumpkins.<N>Set it to and drink it with , ,<N>or  to replenish 4 hearts.
+You put superb soup in your<N>bottle! It smells quite cheesy!<N>Set it to and drink it with<N>, , or  to replenish 8 hearts.
+You got Renado's letter!<N>It carefully details how to treat<N>Ilia to get her memory back.<N><N>Set it to , , or  to show it.
+You got the invoice!<N>This invoice is for the town<N>doctor's running tab, which is<N>an astronomical sum.<N>Set it to , , or  to show it.
+You got the wooden statue!<N>This oddly shaped statue is<N>said to have once belonged to<N>Ilia.<N>It might be a clue that will help<N>Ilia get her memory back! Set it<N>to , , or .
+You got Ilia's charm!<N>Ilia left this charm with the<N>woman who saved her.<N><N>This is the key to getting<N>Ilia's memory back! Set it to<N>, , or , and get it to her!
+You got the horse call!<N>Ilia made this just for<N>.<N><N>Set it to , , or  and use it<N>while outside to play<N>'s favorite song<N>and call her to you.
+You found the stamp for the Hylian letter J!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter K!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter L!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter M!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter N!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter O!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter P!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter Q!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter R!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter S!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter T!<N>Check out your stamps on the Collection<N>screen.
+You got Auru's memo!<N>Auru wrote this to Fyer of<N>Lake Hylia.<N><N>Set it to , , or  to show it.
+You got Ashei's sketch!<N>This hastily drawn picture<N>shows the creature Ashei saw<N>holding a red fish.<N>Show it to people using , , or ,<N>and you might get some<N>information.
+You found the stamp for the Hylian letter U!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter V!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter W!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter X!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter Y!<N>Check out your stamps on the Collection<N>screen.
+You found the stamp for the Hylian letter Z!<N>Check out your stamps on the Collection<N>screen.
+You found the Rupee stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Treasure Chest stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Piece of Heart stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Heart Container stamp!<N>Check out your stamps on the Collection<N>screen.
+You got yellow Chu Jelly in your<N>lantern! Now your lantern's full!
+You got a bottle of oil!<N>This is essential for lighting<N>your lantern.<N><N>Set your oil and lantern to<N>, , or , and then use the<N>oil to fill the lantern.
+You got bee larvae in a bottle!<N>Fish love these, and they're also<N>edible and full of nutrients.<N><N>Set your rod and the larvae to<N>, , or  and use the larvae to bait<N>your rod.<N><N>If you use them without the rod<N>equipped, you will eat them and<N>replenish 1/4 heart per larva!
+You put black Chu Jelly in the<N>bottle! This color looks really<N>bad for you. You can set it to<N>, , or  and drink it, but...
+You got a Tear of Light!<N>This sacred tear cuts the<N>twilight. Collect them in the<N>Vessel of Light.
+You got the Vessel of Light!<N>It's crucial to collecting the<N>Tears of Light.<N><N>If you fill it with Tears of Light,<N>you will be able to cut through<N>the twilight and return normal<N>light to this place.<N>To see these evils that hold the<N>Tears of Light, use your <N>senses.
+You got the Vessel of Light!<N>It's crucial to collecting the<N>Tears of Light.<N><N>If you fill it with Tears of Light,<N>you will be able to cut through<N>the twilight and return normal<N>light to this place.<N>To see these evils that hold the<N>Tears of Light, use your <N>senses.
+You got the Vessel of Light!<N>It's crucial to collecting the<N>Tears of Light.<N><N>If you fill it with Tears of Light,<N>you will be able to cut through<N>the twilight and return normal<N>light to this place.<N>To see these evils that hold the<N>Tears of Light, use your <N>senses.
+The Vessel of Light is full of<N>tears, and light has returned to<N>this area!
+
+
+
+You found the Happy Link stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Angry Link stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Sad Link stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Surprised Link stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Wolf Link stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Happy Midna stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Angry Midna stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Sad Midna stamp!<N>Check out your stamps on the Collection<N>screen.
+
+
+
+
+
+
+You found the Surprised Midna stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Ooccoo stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Happy Zelda stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Angry Zelda stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Sad Zelda stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Surprised Zelda stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Zant stamp!<N>Check out your stamps on the Collection<N>screen.
+You got the Agitha Stamp!<N>Check out your stamps on the Collection<N>screen.
+You bought the Malo Mart stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Cucco stamp!<N>Check out your stamps on the Collection<N>screen.
+You caught a  beetle!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  beetle!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  butterfly!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  butterfly!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  stag beetle!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  stag beetle!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  grasshopper!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  grasshopper!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  phasmid!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  phasmid!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  pill bug!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  pill bug!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  mantis!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  mantis!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  ladybug!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  ladybug!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  snail!<N>Snail fans love that golden<N>color! Check out caught bugs<N>on the Collection screen.
+You caught a  snail!<N>Snail fans love that golden<N>color! Check out caught bugs<N>on the Collection screen.
+You caught a  dragonfly!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  dragonfly!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  ant!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  ant!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  dayfly!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You caught a  dayfly!<N>Bug fans love that golden color!<N>Check out caught bugs on the<N>Collection screen.
+You found the Fairy stamp!<N>Check out your stamps on the Collection<N>screen.
+You found the Twili Midna stamp!<N>Check out your stamps on the Collection<N>screen.
+PAUSED
+Look at the Wii U GamePad.
+    ö@öÏçÈç≠ í¥ö¢   
+Wii U GamePad
+Wii U Pro Controller
+HERO MODE
+You got the Poe's soul! <N>Collect one from each Poe you<N>defeat! See how many you have<N>on the Collection screen.
+Return to title?<N><N>Any unsaved progress will be lost.
+Are you sure?<N><N>This Quest Log will be permanently erased.
+Manual
+Start the game in Normal Mode.
+In Hero Mode, the damage you take will<N>be doubled, and no hearts will drop.<N>For advanced players only. 
+Normal Mode
+Hero Mode
+You got a Ghost Lantern!<N>This mysterious lantern will light up<N>when there are ghosts nearby.<N><N>Set it to , , or  from the Items screen.<N>It doesn't need any oil!<N>
+You got the Ancient Sky Book!<N>A book written in the ancient<N>Sky language. A crucial word in<N>it is missing some characters...<N>This is a hint to finding a path<N>to the sky. Set it to , , or <N>and check it.
+You found one Sky character!<N>A missing part of the word<N>in the Ancient Sky Book has<N>been restored.<N>...But there are still other<N>missing characters.
+The Ancient Sky Book is filled<N>with its missing characters!<N><N><N>This is a crucial clue to finding<N>a path to the sky. Set it to , , or <N>and check it.
+Ooccoo is now with you!<N>She's a reliable Oocca friend.<N><N><N>Use her with , , or , and she<N>will warp you to the shop in the<N>City in the Sky.
+It held 50 Rupees!<N>You'd completely forgotten them!
+You got the small key!<N>This key opens the gate to<N>Faron Woods.
+Return to Title
+Retry
+Please connect a Wii U Pro Controller.
+
+You got the gate keys!<N>These keys open the gates<N>along the path to Kakariko.
+You got the Ordon pumpkin!<N>This pumpkin was grown in<N>your hometown of Ordon.
+You got the Ordon goat cheese!<N>This cheese is made from milk<N>from Ordon goats.
+You got the bedroom key!<N>This will let you gain access<N>to the bedroom that houses the<N>mirror shard. 
+
+You got the lantern back!<N>It ran out of oil while you were<N>following the monkey around...
+You got a key shard!<N>You need all three shards to<N>return the big key to its<N>original shape.
+You got a key shard!<N>You need all three shards to<N>return the big key to its<N>original shape.
+You got a key shard!<N>You need all three shards to<N>return the big key to its<N>original shape.
+
+You collected all three key<N>shards and completed the big<N>key! Hurry to the boss!
+You got a small key!<N>This key opens the gate to<N>Faron Woods.<N>
+
+
+
+
+
+
+
+
+
+Lent Bomb Bag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fairy
+
+Small Key
+Pieces of Heart
+Heart Container
+Dungeon Map
+Compass
+Ooccoo
+Big Key
+Ooccoo Jr.
+Ordon Sword
+Master Sword
+Ordon Shield
+Wooden Shield
+Hylian Shield
+Ooccoo's Note
+Ranch Clothes
+Hero's Clothes
+Magic Armor
+Zora Armor
+Shadow Crystal
+Ooccoo
+Wallet
+Big Wallet
+Giant Wallet
+Colossal Wallet
+Cave of Shadows
+Save and begin
+Cancel
+
+
+Coral Earring
+Hawkeye
+Wooden Sword
+Gale Boomerang
+Spinner
+Ball and Chain
+Hero's Bow
+Clawshot
+Iron Boots
+Dominion Rod
+Double Clawshots
+Lantern
+Master Sword
+Fishing Rod
+Slingshot
+Dominion Rod
+Ghost Lantern
+
+Giant Bomb Bag
+Bomb Bag
+Bag and Bombs
+
+Fire Arrow
+Quiver
+Big Quiver
+Giant Quiver
+
+
+Hero's Bow
+Hero's Bow
+Fishing Rod
+Fishing Rod + Earring
+Fishing Rod
+Fishing Rod + Earring
+Fishing Rod + Earring
+Empty Bottle
+Red Potion
+Magic Potion
+Blue Potion
+Milk
+Milk (1/2)
+Lantern Oil
+Water
+Lantern Oil
+Red Potion
+Nasty Soup
+Hot Springwater
+Fairy
+Hot Springwater
+Lantern Oil
+Lantern Oil
+Bombs
+Water Bombs
+Bomblings
+Great Fairy's Tears
+Worm
+Great Fairy's Tears
+Bee Larvae
+Rare Chu Jelly
+Red Chu Jelly
+Blue Chu Jelly
+Green Chu Jelly
+Yellow Chu Jelly
+Purple Chu Jelly
+Simple Soup
+Good Soup
+Superb Soup
+Renado's Letter
+Invoice
+Wooden Statue
+Ilia's Charm
+Horse Call
+
+
+
+
+
+
+
+
+
+
+
+Auru's Memo
+Ashei's Sketch
+
+
+
+
+
+
+
+
+
+
+
+Lantern Oil
+Bee Larvae
+Black Chu Jelly
+Tear of Light
+Vessel of Light
+Vessel of Light
+Vessel of Light
+Vessel of Light
+Mirror Shards
+Mirror Shards
+Mirror Shards
+
+
+
+
+
+
+
+
+Scent of Ilia
+
+Poe Scent
+Reekfish Scent
+Youths' Scent
+Medicine Scent
+
+
+
+
+
+
+
+
+
+
+ beetle
+ beetle
+ butterfly
+ butterfly
+ stag beetle
+ stag beetle
+ grasshopper
+ grasshopper
+ phasmid
+ phasmid
+ pill bug
+ pill bug
+ mantis
+ mantis
+ ladybug
+ ladybug
+ snail
+ snail
+ dragonfly
+ dragonfly
+ ant
+ ant
+ dayfly
+ dayfly
+
+
+
+
+
+
+
+
+Poe Souls
+
+
+
+
+
+
+
+
+Ancient Sky Book
+Ancient Sky Book
+Filled Sky Book
+Ooccoo
+
+Small Key
+
+
+
+
+Gate Key
+Ordon Pumpkin
+Ordon Cheese
+Bedroom Key
+Surf Leaf
+Lantern
+Key Shard
+Key Shard
+Key Shard
+
+Big Key
+Small Key
+
+
+
+
+
+
+
+
+
+The bomb bag that you borrowed from Iza.<N>Lift one with , , or , and press  to set<N>it down. Press  while running to throw.<N>After setting the Hero's Bow, use  on<N>the Items screen to combine them to<N>make bomb arrows.
+A bomb bag you got from Iza.<N><N>A bag without bombs in it.<N>Ask Iza and she will fill it for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A faithful companion that will give hearts<N>and revive you when you fall in battle.<N><N>Set it to and use it with , , or , and it will<N>replenish 8 hearts.<N>It will not revive you in water.
+
+
+Five pieces will make a full Heart<N>Container. More containers mean<N>more life.
+
+Green areas are ones you've visited.<N>The yellow arrow is you.
+Locates items in the dungeon.
+A friend you made during your travels.<N><N>Call her with , , or , and she will warp<N>you outside the dungeon.
+Accesses the room of the boss<N>who lurks deep within the dungeon.
+Ooccoo's one and only son.<N>Set him to and call him with , , or ,<N>and he will warp you to where Ooccoo is.<N>However, if you walk into the dungeon,<N>Ooccoo will appear at the dungeon<N>entrance instead of where you left her.
+Rusl crafted this fine sword.<N>It is inlaid with Ordon goat horns.<N>Swing with  or sheathe with .
+The blade of evil's bane. Those<N>with evil hearts cannot touch it.<N>Swing with  and sheathe with .
+A traditional Ordon shield.<N>Defend against attacks with .<N>Fire will burn it away!
+A popular wooden shield.<N>Defend against attacks with .<N>Fire will burn it away!
+A shield with a Hylian crest.<N>Defend against attacks with .<N>It's metal and will never burn.
+Ooccoo has things to do.<N>So she will remain here.<N>If you return, let's get together!<N>...That's what this says.
+
+Green clothes. It is said that the<N>hero who long ago saved Hyrule<N>from danger wore these.
+Armor that protects its wearer by<N>making Rupees magical. Without<N>Rupees, it impedes movement.
+Garments made of Zora scales. They<N>let you breathe and swim in water<N>but are weak against fire and ice.
+
+A friend you made during your travels.<N><N>Call her with , , or , and she will warp<N>you outside the dungeon. 
+A wallet from your childhood.<N>It holds up to 500 Rupees.
+A big wallet; more spacious<N>than your last one.<N>It holds up to 1,000 Rupees.
+An even larger wallet than your<N>previous one.<N>It holds up to 2,000 Rupees.<N>
+An absolutely massive wallet.<N>It puts the old ones to shame.<N>It holds up to 9,999 Rupees.<N>
+
+
+
+
+
+*A Zora earring that attracts fish.<N> Made of precious coral.<N>*Combine it with the fishing rod and use it<N>  as a hook.
+A sophisticated scope that can zoom in on<N>distant things.<N><N>Use it with , , or .<N>Combine it with the Hero's Bow on the Items<N>screen, and use it to zoom in on far-off targets.
+'s beloved wooden sword.<N>Just use  to swing it.<N>
+An enchanted boomerang containing the<N>Fairy of Winds.<N>Set to and use with , , or  to suck up almost<N>anything with gale force.<N>Press  while aiming to lock on<N>to up to 5 targets marked with .<N>
+An ancient machine that allows riders<N>to float over the land.<N>Ride it with , , or  to float over sand<N>and ride along wall rails.<N>Press , , or  while riding to attack enemies<N>with a spin surge.
+A giant iron ball and chain.<N><N>Swing it with , , or  and release it<N>after building momentum to cause<N>serious damage.
+It's said that this Goron treasure was left<N>behind by a hero of the past.<N><N>Set it to and hold , , or ;<N>aim with  or ; and release , , or  to fire.<N>You can hold up to  at once.
+A chain with a claw at one end.<N>Hold it with , , or , aim at places where<N>you see  with  or , and release the<N>button to fly to that place.<N>Use  to move up and down when<N>hanging from the ceiling.
+Iron boots that make you heavier.<N><N>Wear them with , , or .<N>Wear them underwater to sink and walk<N>along the bottom.
+An amazing rod that can infuse ancient<N>statues with life.<N>Hold it with , , or , aim with  or , and<N>release the button to awaken the statue.<N>A statue that has received life will<N>move in the same way as its master.
+A pair of Clawshots.<N>Hold them with , , or , use  or  to aim at<N> spots, and release the button to fire.<N>Use it again while hanging to fire again.<N>Use  to move up and down when<N>hanging from the ceiling.
+An essential item that lights the darkness.<N>Light it with , , or , and press  while<N>not moving to put it out.<N>Press the button it's set to while it's lit<N>to set something on fire.<N>It will not light if it runs out of oil.
+The Master Sword infused with light.<N>In the Twilight Realm, it shines with<N>golden light. Use  to cut darkness!
+A simple, bobber-style fishing rod.<N>Set it to , , or  and face the water to<N>use it. Press and hold the assigned button to raise<N>the rod.<N>Set it with bait from a bottle to catch<N>a variety of fish.
+Children LOVE this item.<N>Hold it with , , or . Aim with  or .<N>Release , , or  to shoot a pellet.<N>Lock on with  to be sure of your aim.<N>You can hold a max of 50 pellets (seeds). 
+An amazing rod that can infuse ancient<N>statues with life.<N>Hold it with , , or , aim with  or , and<N>release the button to awaken the statue.<N>A statue that has received life will<N>move in the same way as its master.
+A mystical rod that breathes life into<N>ancient statues.<N>Its power has waned since being removed<N>from the Temple of Time.<N>It cannot be used in this state. 
+A mysterious lantern that reacts to ghosts.<N>Equip it with , , or . It doesn't use oil.<N>It's normally dark but will light up day<N>or night if a ghost is nearby.<N>It will stay lit throughout complicated areas<N>like dungeons if there is a ghost to be found.<N>
+A bag that holds bombs.<N>Holds twice the number of bombs as the<N>one you used to have.<N>One bag holds one type of bomb.<N>The number of bombs it will hold<N>depends on the type of bomb.
+A bag that holds bombs.<N><N>One type of bomb per bag.<N>The maximum number of bombs depends<N>on the type of bomb.
+A bag that holds bombs.<N><N>One type of bomb per bag.<N>The maximum number of bombs depends<N>on the type of bomb.
+
+
+A quiver that was stored with<N>the Hero's Bow. It can hold<N>up to 30 arrows.
+A bigger-than-standard<N>quiver. It can hold up to<N>60 arrows.
+A quiver with a huge capacity.<N>It can hold up to 100 arrows.
+
+
+
+
+The rod's hook is baited with a larva.<N><N>Set it to , , or , and cast when facing<N>the water.<N>When the float dips, you have a bite, so<N>hook it by holding the assigned button.
+The rod's hook is a coral earring, which<N>reekfish love.<N>Set to , , or , face the water, and cast.<N>When the float dips, you have a bite, so<N>hook it by holding the assigned button.<N>Catch a variety of fish without any bait.
+The rod's hook is baited with a worm.<N><N>Set it to , , or , and cast when facing<N>the water.<N>When the float dips, you have a bite, so<N>hook it by holding the assigned button.
+The earring hook is baited with a bee larva.<N><N>Set it to , , or , and cast when facing<N>the water.<N>When the float dips, you have a bite, so<N>hook it by holding the assigned button.
+The earring hook is baited with a worm.<N><N>Set it to , , or , and cast when facing<N>the water.<N>When the float dips, you have a bite, so<N>hook it by holding the assigned button.
+An empty bottle.<N><N>Set it to , , or  to scoop things up.<N>You can carry stuff around with you and<N>use it when you need to.
+Red potion.<N><N>Set this to and drink it with , , or  to<N>restore 8 hearts.
+
+Blue potion.<N><N>Set it to and drink it with , , or  to<N>restore all hearts.
+A bottle filled with milk (2 servings).<N><N>Set it to and drink it with , , or  to<N>replenish 3 hearts.<N>Drink half at a time. 
+A half-full bottle of milk (1 serving).<N><N>Set it to and drink it with , , or  to<N>restore 3 hearts.
+Oil for your lantern.<N><N>When you want to refill your lantern, set<N>it and the oil to , , or  and then use the<N>oil.
+Regular water.<N><N>Set it to and use it with , , or  to<N>sprinkle it on stuff.<N>
+Oil for your lantern.<N><N>When you want to refill your lantern, set<N>it and the oil to , , or .
+Red potion.<N><N>Set it to , , or  and drink it<N>to restore 8 hearts.<N>
+Coro's homemade soup.<N><N>Who knows what will happen until you<N>set it to , , or  and drink it...
+Famous hot springwater from Death<N>Mountain.<N><N>Set it to , , or  and drink it to replenish<N>all hearts.<N>If it cools down, it will be plain water.
+A trustworthy ally that will give you hearts<N>when you fall in battle.<N><N>Set it to and use it with , , or , and<N>it will restore 8 hearts immediately.<N>It won't revive you from drowning.
+The famous hot springwater from Death<N>Mountain.<N><N>Set it to , , or  and drink it to restore all<N>hearts.<N>If it cools down, it will be plain water.
+
+
+Normal bombs. You can carry .<N>Set them to , , or , and then press that<N>button to grab one. Set it down by pressing the<N>assigned button or . Run and press it to throw.<N>You can combine them with the Hero's Bow<N>on the Items screen to make bomb arrows.
+Underwater bombs. Carry up to .<N>Lift one with , , or , and press <N>to set it down. Press  while<N>running to throw.<N>You can combine them with the Hero's Bow<N>on the Items screen to make bomb arrows.
+Mobile explosives. Carry up to .<N>Lift one with , , or , and press <N>to set it down. Press  while<N>running to throw.<N>You can combine them with the Hero's Bow<N>on the Items screen to make bomb arrows.
+Sacred water protected by the fairies.<N><N>Set it to , , or  and drink it to restore<N>all hearts and increase your attack<N>power for a while!
+Fish love these.<N><N>Set your fishing rod and the worm to<N>, , or  and use the worm to bait<N>your rod.
+Sacred water protected by the fairies.<N><N>Set it to , , or  and drink it to restore<N>all hearts and increase your attack<N>power for a while!
+Larvae taken from a beehive.<N>Set your fishing rod and larvae to , , or <N>and then use the larvae to bait your rod.<N>Without your rod equipped, set them to<N>, , or  to eat them and replenish<N>1/4 heart per larva.
+Nutritious jelly from a rare Chu.<N><N>Set it to , , or  and drink it to restore<N>all hearts and increase your attack<N>power for a while!
+Nutritious jelly from a red Chu.<N><N>Set it to , , or  and drink it to restore<N>8 hearts.
+Nutritious jelly from a blue Chu.<N><N>Set it to , , or  and drink it to restore<N>all hearts.
+Nutritious jelly from a green Chu.<N><N>Set it to , , or  and drink it,<N>but it doesn't look like it does much...
+Oily jelly from a yellow Chu.<N><N>Set it and the lantern to , , or  and then<N>use the oil to refill the lantern.
+Suspicious jelly from a purple Chu.<N><N>Set it to , , or  and drink it, but who<N>knows what will happen...
+Yeto's homemade soup. It smells of fish<N>broth.<N><N>Set it to and drink it with , , or <N>to restore 2 hearts.
+Yeto's homemade soup. It smells like<N>pumpkin.<N><N>Set it to , , or  and drink it to replenish<N>4 hearts.
+Yeto's homemade soup. You can smell the<N>cheese in it.<N><N>Set it to , , or  and drink it to replenish<N>8 hearts.
+Renado's letter to Telma.<N><N>It explains how to treat Ilia's memory<N>loss.<N>Set it to , , or  when you want to show<N>it to someone.
+The invoice for the doctor's bar tab.<N><N>The total is dizzying.<N>Set it to , , or  when you want to<N>show it to someone.
+The oddly designed statue that<N>supposedly once belonged to Ilia.<N><N>A clue to the mystery of Ilia's memory.<N>Set it to , , or  to show it to the<N>person in front of you.
+The amulet charm kept by the woman that<N>saved Ilia.<N>A clue to the mystery of Ilia's memory.<N>Set it to , , or  to show it to the<N>person in front of you.
+A whistle that Ilia made just for<N>.<N><N>Set it to , , or  to call <N>even without a reed.
+
+
+
+
+
+
+
+
+
+
+
+The memo that Auru wrote for Fyer of<N>Lake Hylia.<N><N>Set it to , , or  to show it to people.
+A picture of a giant holding a red fish that<N>Ashei said she saw.<N><N>Set it to , , or  to show it to people.
+
+
+
+
+
+
+
+
+
+
+
+Oil needed to fuel the lantern.<N><N>To refill the lantern, set the lantern and<N>the oil to , , or .
+
+Jelly from the black Chu.<N><N>It smells bad even with the lid closed.<N>Looks like you can set it to and drink it<N>with , , or , but...
+
+A valuable container given to<N>you by the spirit. Use it to<N>collect tears of light.
+A valuable container given to<N>you by the spirit. Use it to<N>collect tears of light.
+A valuable container given to<N>you by the spirit. Use it to<N>collect tears of light.
+
+Part of the Mirror of Twilight,<N>which connects light and shadow.<N>Collect all the parts to complete it.
+Part of the Mirror of Twilight,<N>which connects light and shadow.<N>Collect all the parts to complete it.
+The mirror connecting light and<N>shadow. The light emerging from it<N>opens the way to the Twilight Realm.
+
+
+
+
+
+
+
+
+The scent of the purse that Ilia<N>always had with her, which you<N>found in Lanayru Province.
+
+The smell of the ghosts that lurk<N>around the Arbiter's Grounds in<N>the desert.
+The smell of the reekfish, the<N>sacred fish that can only be<N>found in Zora's Domain.
+The smell of the Ordon children,<N>which was on the wooden sword<N>that you found in Eldin Province.
+The scent of the medicine the<N>town doctor accidentally spilled<N>on the wooden statue.
+
+
+
+
+
+
+
+
+
+
+A golden-bodied  beetle.<N>It was found in the field in<N>Faron Province.
+A golden-bodied  beetle.<N>It was found in the field in<N>Faron Province.
+A golden-bodied  butterfly.<N>It was found in the field west of<N>Castle Town.
+A golden-bodied  butterfly.<N>It was found in the field west of<N>Castle Town.
+A golden-bodied  stag<N>beetle. It was found in the<N>field north of Hyrule Castle.
+A golden-bodied  stag<N>beetle. It was found in the<N>field north of Hyrule Castle.
+A golden-bodied  grasshopper.<N>It was found in the field north<N>of Kakariko Village.
+A golden-bodied  grasshopper.<N>It was found in the field north<N>of Kakariko Village.
+A golden-bodied  phasmid.<N>It was found at the Bridge of<N>Eldin.
+A golden-bodied  phasmid.<N>It was found at the Bridge of<N>Eldin.
+A golden-bodied  pill bug.<N>It was found near Kakariko<N>Gorge.
+A golden-bodied  pill bug.<N>It was found near Kakariko<N>Gorge.
+A golden-bodied  mantis.<N>It was found at the Great Bridge<N>of Hylia.
+A golden-bodied  mantis.<N>It was found at the Great Bridge<N>of Hylia.
+A golden-bodied  ladybug.<N>It was found in the field south<N>of Castle Town.
+A golden-bodied  ladybug.<N>It was found in the field south<N>of Castle Town.
+A golden-bodied  snail.<N>It was found in the Sacred<N>Grove. (...It might actually be a .)
+A golden-bodied  snail.<N>It was found in the Sacred<N>Grove. (...It might actually be a .)
+A golden-bodied  dragonfly.<N>It was found near the waterfall<N>basin of Zora's River.
+A golden-bodied  dragonfly.<N>It was found in the upper part<N>of Zora's River.
+A golden-bodied  ant.<N>It was found in the graveyard<N>of Kakariko Village.
+A golden-bodied  ant.<N>It was found in Kakariko Village.
+A golden-bodied  dayfly.<N>It was found in the Gerudo<N>Desert.
+A golden-bodied  dayfly.<N>It was found in the Gerudo<N>Desert.
+
+
+
+
+
+
+
+
+Spirits held by the Poes visible to<N>honed senses.
+
+
+
+
+
+
+
+
+A book written in the ancient Sky language.<N>Characters are missing in areas.<N><N>A hint to getting to the sky.<N>Show it to a person in front of you<N>using , , or .
+A book written in the ancient Sky language.<N>There are still some characters missing.<N><N>A hint to getting to the sky.<N>Show it to a person in front of you<N>using , , or .
+A book written in the ancient Sky language.<N>All the missing characters are in.<N><N>An important clue in getting to the sky.<N>Show it to a person in front of you<N>using , , or .
+Ooccoo the sky being.<N><N>Call her with , , or , and she will warp<N>you to the shop in the City in the Sky.
+
+
+
+
+◊%d
+B%d
+
+An Ordon pumpkin whose smell reminds<N>you of home.<N>It's delicious in soup.
+Cheese made from the milk of an Ordon<N>goat.<N>It imparts a mellow flavor to soup.
+The key to the bedroom of the mansion<N>on Snowpeak where the mirror shard<N>is held.
+
+A necessity for lighting the darkness.<N><N>Set it to , , or  to light it, and press <N>while standing still to put it out.<N>Press the button it's set to again when<N>lit to set things on fire.<N>You need oil to make it work.
+Shards of the key to the room where the<N>transformed Goron elder is locked up.<N>Collect all 3 and it will be complete.
+Shards of the key to the room where the<N>transformed Goron elder is locked up.<N>Collect all 3 and it will be complete.
+A key to the dungeon<N>boss's room.
+
+The key to the room where the<N>transformed Goron is locked up.
+
+
+Map
+Compass
+Big Key
+Details
+åTç‰
+Choose
+B1
+1F
+2F
+3F
+4F
+Hyrule Castle
+Forest Temple
+Goron Mines
+Lakebed Temple
+Arbiter's Grounds
+Snowpeak Ruins
+Temple of Time
+City in the Sky
+Palace of Twilight
+Use the magic of the Gale Boomerang<N>to carry bombs to enemies!<N>Hold , , or , aim with , and then use  to target objects!
+Zoom
+Move
+Control Tip<N>Press  to shield attack against your<N>enemies. Press  to target enemies<N>and objects.
+When holding an object, press <N>to target and  to throw. You'll<N>hit your target with the object.
+First, hold , , or  and target the bomb<N>with . Aim at the object you want<N>to hit with , and then use  to target it!
+Rotate
+Set item
+GAME OVER
+Link
+Epona
+Enter Horse Name
+Enter Name
+Hiragana
+Katakana
+English
+
+END
+ABC
+abc
+
+END
+
+Unable to find the Memory Card in<N>Slot A. Please check that the<N>Memory Card is inserted.
+The Memory Card in Slot A is<N>damaged and cannot be used.
+Wrong device in Slot A. Please insert<N>a Memory Card. 
+The Memory Card in Slot A is not<N>compatible.
+The data in the Memory Card in Slot<N>A is corrupted and needs to be<N>erased. Do you want to erase it?
+YES
+NO
+There is either not enough free space<N>on the Memory Card in Slot A or the<N>file count will be exceeded.<N>To save this game, you need at least<N>1 file and 4 free blocks. 
+To manage the contents of your<N>Memory Card, use the Memory Card<N>Screen.
+An error might have occurred in<N>formatting.
+Formatted.
+Formatting.<N><N>Do not touch the Memory Card in<N>Slot A or the POWER Button.
+If you format, all the data on the<N>Memory Card in Slot A will be lost.<N>Do you still want to format?
+YES
+NO
+The Memory Card in Slot A cannot be<N>used with this game.
+Do you want to open the Memory<N>Card screen on the hardware?<N>(You can also access this screen by<N>holding the A Button while powering<N>on the system.)
+Unable to save, but do you want<N>to start the game?
+YES
+NO
+Create a save file on the Memory Card<N>in Slot A?
+YES
+NO
+There is no save file on the<N>Memory Card in Slot A.
+An error might have occurred when<N>creating a save file.
+Creating a save file.<N><N>Do not touch the Memory Card in Slot<N>A or the POWER Button.
+A file has been created.
+Unable to save. There is no<N>Memory Card in Slot A. Please<N>insert a Memory Card into Slot A.
+Unable to save. The Memory Card in<N>Slot A is damaged and cannot be<N>used.  Please insert a valid<N>Memory Card into Slot A.
+Unable to save. Wrong device in<N>Slot A. Please insert a Memory Card<N>into Slot A.
+Unable to save. The Memory Card in<N>Slot A is not compatible. Please<N>insert a compatible Memory Card into<N>Slot A.
+Unable to save. There is no<N>Memory Card in Slot A. Please<N>insert a Memory Card into Slot A.
+Unable to save. The Memory Card<N>in Slot A is corrupted and needs to be<N>formatted. Would you like to format?
+YES
+NO
+Unable to save. There is no<N>Memory Card in Slot A. Please<N>insert a Memory Card into Slot A.
+Unable to save. There is insufficient<N>space on the Memory Card in Slot A.<N>The Legend of Zelda: Twilight<N>Princess requires 1 file and 4 blocks<N>to create a new save file.
+Either insert a Memory Card with<N>free space into Slot A or manage<N>the Memory Card contents on the<N>Memory Card Screen.
+An error might have occurred during<N>formatting.
+Formatted.
+Formatting...<N><N>Do not touch the Memory Card in Slot<N>A or the POWER Button.
+Formatting the Memory Card in Slot A<N>will erase all previously saved data.<N>Do you want to format?
+YES
+NO
+Unable to save. The Memory Card in<N>Slot A cannot be used. Please insert<N>a valid Memory Card.
+The current game data will not be<N>saved. Is this OK?
+YES
+NO
+Would you like to manage the<N>contents of your Memory Card on the<N>Memory Card Screen?
+Create a save file for this game<N>on the Memory Card in Slot A?
+YES
+NO
+Unable to save. There is no save file<N>for this game on the Memory Card<N>in Slot A.
+Creating a file...<N><N>Do not touch the Memory Card in Slot<N>A or the POWER Button.
+An error might have occurred when<N>creating a save file.
+A save file has been created.
+Saving... Do not touch the Memory<N>Card in Slot A or the POWER Button.
+Unable to save.<N><N>The Memory Card in Slot A has<N>been switched.
+Saved. Continue playing?
+YES
+NO
+An error might have occurred when<N>saving.
+Do you want to save?
+Do you want to continue playing?
+Save time
+Total play time
+There is a save file for this game on<N>the Memory Card in Slot A. Would you<N>like to transfer this data to the Wii?
+Data in the Wii System Memory will be<N>erased and cannot be restored.<N>Are you sure you want to continue?
+Unable to find Memory Card in Slot A.<N>In order to copy save data from a<N>Memory Card, please start over.
+Clear
+Roll
+Hold on
+8F
+7F
+B2
+B3
+5F
+6F
+Move
+Rotate
+Field Map
+Collection
+SELECT
+START!
+GOAT IN!
+The Vessel of Light is filled<N>with tears! Hurry! Take it to<N>the spirit!
+Hint
+X/Y Switch
+Item Selection
+Let go
+Peek
+Attack
+Put away
+Howl
+Open
+Enter
+Check
+Dash
+Crouch
+Defend
+Pick up
+Dig
+Eat
+Select
+Switch
+åTç‰
+Throw
+Place
+Grab
+Swim
+Get on
+Get on
+Lift
+Pick up
+Paddle
+Jump
+Read
+Look
+Speak
+Swing
+Next
+Lock
+Zoom
+Whoop
+   Ç¨ó 
+Quit
+Pick
+Blow
+Dodge
+Cut
+Finish
+Set free
+Dismount
+Get off
+Drop down
+Pick up
+Take
+Hurry
+Pull down
+Pet
+Pick up
+Shield attack
+Listen
+Drink
+Zoom
+Cover
+Push
+Resist
+Put together
+Skip
+Slap
+Sniff
+Bite
+Fasten
+Get down
+Roll
+Try again
+Dash
+
+Sniff
+Can't skip
+Sense
+Throw
+Land
+Hook
+Change locks
+Equip
+Pull
+Reel
+Extract
+Spin
+Switch
+Spin attack
+Reel fast
+Raise
+Release
+Check
+Map
+Items
+Jump
+Insert
+Draw
+Strike
+
+Jump
+Flip
+Change view
+Zoom
+åTç‰
+Forest Temple
+Goron Mines
+Lakebed Temple
+Arbiter's Grounds
+Snowpeak Ruins
+Temple of Time
+City in the Sky
+Palace of Twilight
+Hyrule Castle
+Ordon Ranch
+Ordon Village
+Kakariko Village
+Zora's River
+Zora's Domain
+Faron Woods
+Lake Hylia
+Death Mountain
+Graveyard
+Gerudo Desert
+Snowpeak
+Mirror Chamber
+Hyrule Field
+Sacred Grove
+Hyrule Castle Town
+Sera's Sundries
+Malo Mart
+Barnes Bombs
+Malo Mart Castle Branch
+STAR Tent
+Telma's Bar
+Fanadi's Palace
+Agitha's Castle
+Jovani's House
+Hidden Village
+Castle Town Sewers
+Castle Town West Road
+Castle Town Central Square
+Castle Town South Road
+Castle Town East Road
+Fishing Hole
+Upper Zora's River
+Great Bridge of Hylia
+Bite
+Move
+Collection
+Area Map
+Seize
+Survey
+Scoop
+Chance
+Twilit Parasite<N>DIABABA
+Twilit Igniter<N>FYRUS
+Twilit Aquatic<N>MORPHEEL
+Twilit Fossil<N>STALLORD
+Twilit Ice Mass<N>BLIZZETA
+Twilit Arachnid<N>ARMOGOHMA
+Twilit Dragon<N>ARGOROK
+Usurper King<N>ZANT
+Dark Lord<N>GANONDORF
+Help
+Action
+Set hook
+Tilt
+Thrust
+Rotate
+Helm splitter
+
+Ganon's Puppet<N>ZELDA
+Dark Beast<N>GANON
+Castle Town West Road
+Castle Town East Road
+Return to title?
+Start the game?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hold the controller naturally and<N>point it at the center of the screen.<N>If the cursor seems too high,<N>press ; if it's too low, press .
+Please select a stage.
+PAUSE
+SELECT STAGE
+Select
+åTç‰
+OK
+Start
+Thank You for Playing the Demo
+START
+
+YES
+NO
+Continue?
+Really quit?
+   Ç¨ó 
+Back
+Choose
+These are the same as bombs<N>you set to . Want to<N>consolidate? Confirm with .
+Combine this with the Hero's<N>Bow that you set to  to aim<N>at distant targets. Set it to .
+Combine these with the Hero's<N>Bow that you set to  to make<N>bomb arrows. Set them to .
+Combine these with the Hero's<N>Bow that you set to  to make<N>flash bomb arrows. Set them to<N>.
+Hawkeye OFF
+Retry?
+YES
+NO
+Return to the<N>title screen?
+YES
+NO
+Save your<N>progress?
+YES
+NO
+Save your quest.
+Change game settings.
+FISH ON!
+Letters
+Letters to <N>Press  to open it and read all<N>letters you've received so far.
+Save to which log?
+Overwrite this log?
+Saved. Continue playing?
+Direct select
+
+You collected 20 Poe souls!
+You collected 60 Poe souls!
+You collected 60 Poe souls!
+Bow & Arrow Combo
+Combo OFF
+Pitch
+Howl
+Letter /
+Turn page
+STEP 1
+Please adjust the orange bar so that it<N>matches the exact size and position of<N>the Sensor Bar.
+STEP 2
+Point the Wii Remote at the screen and<N>adjust your distance from the screen until<N>the blue circle overlaps the orange circle.
+STEP 3
+Point the Wii Remote at the screen<N>and move the cursor vertically until it<N>overlaps the central orange circle.
+
+
+
+
+1
+2
+To save your progress during your<N>game, press  and then choose<N>Save Game in the bottom-left<N>corner of the Collection screen.
+
+amiibo used
+Completion time
+Max combo
+Damage received
+Cave of Shadows Record
+NEW Record!
+Level
+Save newly updated data to<N>the Wolf Link amiibo?
+Are you sure you want to return<N>to the surface without saving?
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+READY?
+FIGHT!
+Mark this room and exit?
+YES
+NO
+Return to the marked room?
+YES
+NO
+You cannot warp now.
+Want to travel to<N>?
+YES
+NO
+Zoom
+Zoom out
+Put away
+Select area
+Select area
+Select portal
+Zoom in
+Move
+Portals
+Portals off
+Want to go outside? Are you all<N>done here?
+Yes<N>No
+GO!
+GOAL!
+
+Saved.
+No effect...
+Nothing happened...
+Warp
+No response...
+Nothing happened...
+Slide
+I'll get you out of here. You're sure<N>there's nothing else you need to<N>do, right?
+YOU WIN!
+YOU LOSE!
+Uh...that's where the bridge<N>disappeared, right? You'll just fall<N>into the gorge if you go there!<N>You'd better not...
+You wouldn't be able to go any<N>farther even if you went there!<N>Look for the bridge a little more<N>before heading back!
+Zoom in
+Zoom out
+SCORE
+COMBO
+
+Icon Shortcuts
++2
++1
+0
+-1
+-2
+Options
+Lock-on Type
+Hold
+Switch
+Furigana
+Off
+On
+Rumble
+Sound
+Stereo
+Mono
+Surround
+TV Ratio
+Pointer Settings
+Menu Selection/Setting
+Brightness
+Ratio Check Sample
+Change the settings on the screen so that<N>the 3 shapes below appear as squares.
+Brightness Check Sample
+If the screen is too dark to see<N>clearly, adjust the brightness so<N>4 colors on the right are distinct.
+Make the adjustments on the television.
+TV Settings
+Select option
+Settings
+Are these settings OK?
+Cancel setting changes?
+Cancel
+End
+Adjust
+Complete
+Camera Control
+Normal
+Invert Horizontal Axis
+Pointer
+Map Control
+Item/Floor Selection
+Check
+Air / Water Control
+Standard Mode
+Invert Vertical Axis
+Invert Both Axes
+Rumble Feature
+Motion Controls
+
+
+
+
+
+Please move closer to the TV.
+
+Hyrule Kingdom
+Ordon Ranch
+Ordon Village
+Ordon Woods
+Ordona Province
+Faron Province
+Ordon Spring
+Faron Woods
+Kakariko Village
+Death Mountain
+Hyrule Field
+Eldin Province
+Zora's River
+Zora's Domain
+Lake Hylia
+Lanayru Province
+Graveyard
+Snowpeak
+Gerudo Desert
+Castle Town
+Sacred Grove
+Hyrule Castle
+Hidden Village
+Peak Province
+Desert Province
+???
+
+
+
+
+
+
+Ordon Catfish
+Reekfish
+Hylian Pike
+Greengill
+Hylian Loach
+Hyrule Bass
+Largest
+No. Caught
+Fish Journal
+A bobber-fishing journal. Press  to<N>open it and view the largest size and<N>number of fish 's caught.
+Bobber Journal
+fish
+in.
+
+
+
+
+Fused Shadows
+Fused Shadows
+Items said to possess dangerous<N>powers. The light spirits know where<N>the three hidden in Hyrule lie.
+Items said to possess dangerous<N>powers. The light spirits know where<N>the three hidden in Hyrule lie.
+
+
+Hidden Skills
+Call the golden wolf at howling stones.<N>Your map will show where to learn a new<N>skill. Press  to open the skill list.
+
+
+Coral Earring
+An earring made of the<N>precious coral favored by the<N>sacred fish of Zora's Domain.
+
+
+Golden Bugs
+Press  to view a list of all<N>golden bugs captured so far.
+Golden Bugs
+Give this bug?
+You've already given this bug.
+
+
+Mansion Map
+You got the map of the mansion.<N>Press  to open the map<N>screen.<N><N>The green rooms are ones that<N>you've visited. The yellow arrow<N>shows your current location.<N>Use  to choose floors.
+
+Green rooms are ones you've<N>visited. The yellow arrow<N>marks your current location.
+
+From Ordon like you!<N>It's not too popular at the fishing hole...
+Revered and cared for by the Zora.<N>They're not interested in ordinary<N>bait!
+Anglers are really into this fish right now!<N>It's notorious for winning over fans with its<N>closed eyes.
+A great fish for beginners!<N>Found all over Hyrule.
+A legend among true anglers.<N>Catching an adult is ultrarare!
+The definitive lake fish.<N>Competition is fierce to catch<N>a record size!
+Remarks
+Records
+Gerudo Mesa
+Mirror Chamber
+Sacred Grove
+Upper Zora's River
+Gerudo Mesa
+Snowpeak Top
+Bridge of Eldin
+Kakariko Gorge
+Lake Hylia
+Zora's Domain
+Castle Town
+Death Mountain
+Kakariko Village
+N. Faron Woods
+S. Faron Woods
+Ordon Spring
+
+The Vessel of Light is full of tears!
+You cannot use the Gale Boomerang<N>in this room
+What is it, ?
+Transform into wolf<N>Talk to Midna
+Transform into human<N>Talk to Midna
+You don't have any magic power...<N>You know you can't turn into a<N>beast without it!
+The yellow arrow marks where we<N>are. You knew that, right?
+Whenever you destroy those<N>creatures from the darkness, a<N>portal opens that looks like this<N>on the map: .<N>You hear me? It's called a portal.<N>You'd better remember that!
+And...in those woods we came<N>through...
+Yes! It's got to be around there...
+
+Tell me... Do you ever feel a<N>strange sadness as dusk falls?
+They say it's the only time when<N>our world intersects with theirs...
+...The only time we can feel the<N>lingering regrets of spirits who<N>have left our world.
+That is why loneliness always<N>pervades the hour of twilight...
+But enough talk of sadness...<N>I have a favor to ask of you,<N>.
+I was supposed to deliver<N>something to the royal family of<N>Hyrule the day after tomorrow...
+Yes, it was a task set to me by the<N>mayor, but...would you go in my<N>stead?
+You have...never been to Hyrule,<N>right?
+In the kingdom of Hyrule there is a<N>great castle, and around it is Castle<N>Town, a community far bigger than<N>our little village.<N>...And far bigger than Hyrule is the<N>rest of the world the gods created.<N><N><N>You should look upon it all with<N>your own eyes.
+It is getting late... We should head<N>back to the village. I will talk to the<N>mayor about this matter.
+Hey! ! You there?
+Hey, you mind helpin' me herd the<N>goats?
+Don't you think you should leave<N>town for a while? I mean, at least<N>until the uproar settles? THEN you<N>could come back...
+With sword in hand, return to me...
+Hey, what do you think you're<N>playing at? Leave that for later!
+
+
+
+
+Demo 2:Meeting Ilia<N>(take 's horse to the spring)
+Oh, done herdin' for the day,<N>?<N><N><N>Well, nice work.
+The royal gift Rusl told you about is<N>ready, so you should get ready for<N>your trip to Hyrule Castle.<N><N>Now, the royal family requested<N>this gift specifically, so it's real<N>special.<N><N>It'd be...bad...if the representative<N>of Ordon were to be late for such<N>an occasion, you get me, lad?
+The path before you is a long one,<N>my sweet horse...but please bear<N> safely along it.
+Wait... What's this?
+What's happened? She's injured,<N>isn't she?
+! How could you!<N>You were pushing <N>too hard again! I bet you hurt her<N>leg jumping fences, didn't you!
+Now, now, Ilia. There's no need to<N>get so hot with him...
+FATHER!
+How can you be so easy on him?<N>You're the MAYOR! You should<N>start acting like one!
+You poor thing...
+It'll be all right, .<N>I'll take you to the forest spring<N>right now.<N><N>Once we soothe you in the spirit's<N>spring, you'll feel better in no<N>time!
+W-Wait! Ilia!!!<N><N><N><N>Why, without ...<N>The gift won't get delivered in time!
+Oh, this won't do...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demo 4 (First half):Enemy appears at spring<N> in the darkness
+I had no idea... I hadn't heard the<N>details about Talo's capture...<N><N><N>But, Colin...
+So you still prefer your master over<N>me, huh, ?
+Don't worry about your horse,<N>.
+Fortunately, it looks like the injury<N>isn't too serious. You two can go<N>on together.
+But, ...
+Can you at least promise me this?
+No matter what happens on your<N>journey, don't try to do anything...<N>out of your league. Please.
+Just come home safely.
+
+
+I... I knew you once...
+Yes... This feels so familiar...<N>The scent of hay...
+Long ago... When we were young,<N>you and I...
+You were always there... You were<N>always beside me...<N>
+.
+This gift was meant for you. It was<N>something I wanted to give you<N>before you left on your journey.
+Please, , take it.
+You don't need to worry about me<N>any longer. Whenever you return...<N>I'll be waiting for you.
+You got the porcelain horse call!
+
+Wait...
+Come...to my spring... 
+You have...been transformed...<N>by the power...of shadow...
+Come...to me...
+
+
+
+
+
+
+Eee hee!
+I found you!
+Oooh! Aren't you scary!
+Eee hee! Are you sure you want to<N>be doing that? Snarling and glaring<N>at me?
+Well, that's too bad...
+I was planning on helping you...<N>if you were nice.
+Eee hee! That's much better!<N>You humans are obedient to a fault,<N>aren't you?
+Oops! But you AREN'T a human<N>anymore, are you? You're a beast!<N>Eee hee!
+There, there. You be a good boy<N>and calm down. No need to bite!
+You look kind of surprised!<N>Eee hee hee!
+So! I bet you're wondering, where<N>exactly are we?!
+Well, I'll make you a deal. If you<N>can get over here, maybe I'll tell<N>you! Eee hee!
+Hmph! I guess you're not<N>completely stupid after all!
+Listen, I like you, so I think I'll get<N>you out of here.
+But in exchange for my help, you<N>have to do EXACTLY as I say!
+If you need anything from me, just<N>press  to give me a sign!
+So, are we all clear? Good.<N>Now, come on! Get moving!
+
+
+
+
+
+
+
+This way! Over here!
+I'll be waiting for you, but you'll<N>have to help yourself for a change!
+
+
+
+
+...Midna?!
+Eee hee! You remembered my<N>name? What an honor for me...
+So, this is the one for whom you<N>were searching...
+He's not exactly what I had in<N>mind, but...I guess he'll do.
+...You were imprisoned?
+
+I am sorry.
+Poor thing, he has no idea where<N>this is or what's happened...<N><N><N>So, don't you think you should<N>explain to him what you've managed<N>to do? You owe him that much...
+...Twilight Princess! Eee hee!
+Listen carefully...<N><N><N><N>This was once the land where the<N>power of the gods was said to<N>slumber. This was once the<N>kingdom of Hyrule.<N>But that blessed kingdom has been<N>transformed by the king that rules<N>the twilight...
+It has been turned into a world of<N>shadows, ruled by creatures who<N>shun the light.
+It is time for you to choose:<N>surrender or die.
+Oh yes, a question for all the land<N>and people of Hyrule...
+Life? Or death?!
+The kingdom succumbed to twilight,<N>but I remain its princess...
+I am Zelda.
+You don't have to look so sad!
+We actually find it to be quite<N>livable! I mean, is perpetual twilight<N>really all that bad?
+Midna... This is no time for levity.<N>The shadow beasts have been<N>searching far and wide for you.<N><N>Why is this?
+
+Why indeed? You tell me!<N>Eee hee hee!
+Time has grown short. The guard<N>will soon make his rounds.
+You must leave here, quickly.
+
+
+
+
+
+
+
+Not that way! The guard's coming!<N>Boy, he's prompt!
+Eee hee hee! Well? Do you<N>understand where we are now?
+I guess a promise is a promise, so<N>I'll let you go back to where you<N>first tumbled into twilight...
+But...are you really sure you should<N>be going back?
+Are you sure you aren't forgetting<N>anything important?
+Eee hee! Do you want to save<N>them?
+Well, in that case, little Midna<N>would be happy to help you!
+But...
+Well, you'd have to be my servant...<N>and like a servant, you'd have to do<N>exactly as I say!
+Why don't you go back, take a little<N>time, and give it some thought.<N>Eee hee hee!
+Oh, that's right. I forgot to mention<N>one thing...<N><N><N>Though you may have left the<N>darkened realm, you haven't<N>transformed back to your former<N>self...and you won't anytime soon!<N>Now why could that be?
+Eee hee hee!<N><N><N><N>See you later!
+
+
+
+
+
+
+
+
+Beware... A shadow being...<N>It approaches...
+O brave youth...
+I am one of four light spirits that<N>protect Hyrule at the behest of the<N>gods. I am Ordona.
+The black beast you slayed was a<N>shadow being. It had come to seize<N>the power of light I wield.
+My brethren in Hyrule have already<N>had their light stolen by these<N>fell beasts.
+The entire kingdom has been<N>reduced to a netherworld ruled<N>by the cursed powers of darkness.
+The blight will not stop with Hyrule.<N>Before long, the entire world of<N>light will fall into the hands of the<N>king who rules the twilight.
+To save this land from the king of<N>twilight, the lost light must be<N>recovered.<N><N>The three light spirits who have<N>lost their light must be revived.
+There is but one who can revive<N>them and redeem this land...<N><N><N><N>You.
+Those transformed by twilight<N>usually cannot recover their<N>original forms...
+Unless... If you were to return to<N>Faron Woods where you were<N>first transformed... If you were to<N>revive the light spirit...
+There, by the power of the light<N>spirit, you may find the means to<N>regain your other state of being...
+
+
+
+
+
+
+
+
+Hmm! So these are the weapons<N>you use in your world?
+You really think this thing can slay<N>the creatures of twilight?
+
+That's not a bad bit of information<N>you heard, huh?
+Ugh... Look at that open window.<N>This village is full of idiots.
+So...
+Ohhh... How did it come to this?
+The children... Please say<N>nothing's happened...
+Please forgive your good-for-<N>nothing father...
+We should jump up there...but from<N>where?
+Hey, there's someone over there,<N>too!
+What could they be talking about?<N>I bet someone's worried about you!
+But, ...<N>Can you at least promise me this?
+To the hero...who was transformed<N>into a blue-eyed beast...in the<N>realm of shadows... In twilight...
+...This way...
+Just come home safely.
+Hey! What's going on?
+There should be one more... Where<N>could the last tear be?
+What?!
+There it is...
+What's going on? This is weird...
+Huh...
+What are they doing there?
+This is a pretty elaborate gate...<N>What are they trying to keep in?<N>...Or out?
+I bet it'll be worth our while to dig<N>in...
+...How about that?
+Looks like you can climb the<N>scaffolding...
+Hang on... You can use your sword<N>to make quick work of enemies<N>right in front of you, but distant<N>enemies are a different story.
+Press the button you set<N>(, , or ) to equip your bow,<N>and aim with  or  before you release.
+Why don't you try aiming for that<N>scarecrow?
+
+Wanna go back to my mama?
+Go back!<N>Not yet.
+OK! I wanna stay here too!
+You got it! Mama, here we come!
+So... You know where we are yet?<N>Eee hee!
+Well...if you go to the top, you<N>might figure it out!
+Hey, you can climb up here!
+H-Hurry...to where...Princess<N>Zelda...waits...
+You found a play wooden sword!<N>It's Talo's...
+Even though you change shape,<N>I still understand you.
+... Hurry up and<N>return to your true self...
+
+Please look at the TV screen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epona Rodeo strategy (Rescue Epona)<N>Flag 56 has been turned ON.
+Saw the demo where Colin is abducted.<N>Flag 53 has been turned ON.
+Saw the demo where Colin is saved.<N>Flag 85 has been turned ON.
+Saw the demo of Prince Zora being saved.<N>(Convory sucessful)<N>Flag 68 has been turned ON.
+North south bridge mirror space big small mysterious shield
+test 20060713 22:11pm
+...Well, I won't use these, but I'll<N>hang on to them for you!
+All right, a promise is a promise...<N>I trust you enough to help.
+In exchange for my help, though,<N>I need you to gather some things<N>for me.
+Look, I can't tell you all the details<N>now, but it'll be easy, trust me...
+But enough about that. Do you hear<N>that noise? It's the lamentation of<N>the spirit that had its light stolen...
+Where in the world could it be?<N>Eee hee!
+Better get going, don't you think?<N>Don't blame me for your world's<N>fate if you don't hurry up and find<N>that light!
+Come on! Snap to it!
+
+
+
+
+Welcome, Hero...
+Please receive the blessings of the<N>fairies...
+If you ever have need of me, come to<N>this place.
+You have come to receive the blessings<N>of the fairies...but you haven't an<N>empty container...
+If you ever have need of me, come to<N>this place.
+
+Aww, but it was so nice here in the<N>twilight... What's so great about a<N>world of light, anyway?
+Eee hee hee! See you later!
+My name is Faron.
+I am one of the spirits of light who<N>dwell in Hyrule. By the order of the<N>gods, I protect this forest.
+O brave youth...
+In the land covered in twilight,<N>where people roam as spirits, you<N>were transformed into a blue-eyed<N>beast...
+That was a sign...
+It was a sign that the powers of the<N>chosen one rest within you...and<N>that they are awakening.
+Look at your awakened form...
+The green tunic that is your garb<N>once belonged to the ancient hero<N>chosen by the gods...
+His power is yours. His is the true<N>power that slept within you.
+Your name is .
+You are the hero chosen by the<N>gods.
+Brave ...
+A dark power rests in the temple<N>deep within these woods.
+It is a forbidden power. Long, long<N>ago, I and the other spirits of light<N>locked it away.
+Because of its nature, it is a power<N>that should never be touched by<N>any who dwell in the light.
+But this world weeps beneath a<N>mantle of shadows, and so there<N>is no choice... You must match the<N>power of the king of shadows.
+If you would seek this forbidden<N>power, then proceed to the temple<N>in the forest depths.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cripes! I don't see those black<N>brutes anywhere...
+They've gotta be hidin' somewhere,<N>waitin' for their helpless little prey<N>to come out! Then they'll FEAST!
+Shaman! I'm scared!
+We are safe as long as we remain in<N>here, child. Be at ease.
+Oh yeah? I wonder if the monsters<N>out there agree with you...
+They sure didn't seem impressed<N>by my bombs! How long do you<N>think we can hold this sanctuary<N>against beasts that strong, huh?
+Once they attack, it's OVER!
+Remember the lady from the<N>general store? Just one of those<N>things attacked her, and a whole<N>gang from town went to save her!
+And what happened? She was<N>already gone, and there were<N>TWO monsters waitin'!
+...You connectin' the dots? That<N>means that if we get attacked by<N>them, then we'll be...
+BARNES!
+Beth? Are you OK?
+Look, Renado... All I mean to say<N>is that it's risky here, too! Ain't<N>you got some place we can hide?
+There is...a cellar.
+WHAAT?! You've got a CELLAR?!<N>Where's the entrance, man?
+The entrance to the cellar is<N>designed to open when all of the<N>candles have been lit...
+Why didn't you say so sooner?<N>C'mon, now! Let's hide in there!
+...I...would not do that.
+When Father instructed me to<N>secure the cellar, I saw insects<N>like the beasts outside...
+Don't cry, Beth! It'll be OK!
+ is coming to save<N>us all!
+...I can feel it!
+The tears you hold... They are blessed...
+Drink them and you shall better endure<N>the dangers that await you.
+Your power is a gift given only to<N>those with confidence to wield it.
+
+Huh? What is it?
+So... Where could that pitiful<N>light-stripped spirit be?<N>
+Don't you think heading to the<N>temple deep within Faron Woods<N>sounds like a good idea?
+
+Aw, I was just starting to have fun!<N>Don't forget that Fused Shadow!
+Eee hee hee! See you later!
+My name is Eldin.<N><N><N><N>I am one of the light spirits of<N>Hyrule. I am the spirit that guards<N>these lands.<N><N>O great hero chosen by the gods...
+The dark power you seek lies in<N>the sacred grounds of the proud<N>mountain dwellers.
+But already those grounds have<N>been defiled, draped in shadow<N>and seeded with evil.
+You must go to those sacred<N>grounds and cleanse them.
+?!
+Ha ha ha! See, Beth?! I TOLD you<N> would save us!
+...You are the one from Ordon<N>whom these children spoke of?
+We are well met. I am Renado,<N>shaman of this town.
+And this...
+This is my daughter, Luda.
+The beasts took us and left us to<N>die...but Mr. Renado found us.
+At first, I couldn't believe they had<N>come from so distant a place as the<N>Ordona Province...
+Yeah, I... We don't remember much.<N>All of a sudden everyone was<N>captured, and then...until now...it's<N>been like...
+...A nightmare.
+Yeah! It was like a terrible dream<N>and we couldn't wake up...
+Mmm... Nightmares are everywhere<N>these days, it seems. This village<N>has certainly seen its share of<N>recent hardships...
+The dark beasts attacked, but even<N>worse was the sudden and<N>inexplicable change in the<N>mountain-dwelling Goron tribe.
+They had long been our friends,<N>but suddenly treated us as foes.<N>Even now they refuse to permit us<N>entry into their mines.
+It strains the limits of belief...<N>To think that such a gentle and<N>proud tribe could change so<N>suddenly...
+It makes me wonder if something<N>in those mines is the cause of this<N>change...
+In any case, you must take these<N>children and flee this village before<N>more nightmares descend.
+I, of course, cannot leave my village<N>in such a time. There is no telling<N>what may happen to us here...
+...But it is my job to try to coax the<N>Gorons back from their recent<N>change of heart.
+I mean, the thing I'm looking for is<N>there, so maybe you'll find your<N>friends there as well!
+Hey, remember that spirit... I bet<N>it has some good news for you!
+Go talk to her and get the good<N>word!
+What I'm looking for is supposed<N>to be in the temple deep in this<N>forest.
+
+
+
+
+
+
+
+
+
+
+
+...
+Is everyone...OK?
+...Good.
+Beth... I'm sorry. You know...for<N>shoving you. Are you mad?
+I... I think I finally understand.
+I understand what my dad meant<N>when he told me I needed to be<N>stronger, like you, ...
+He wasn't talking about strength,<N>like lifting stuff. He was talking<N>about being brave...
+... You saved me,<N>didn't you?
+You... You can do anything.
+You can do something to help the<N>Gorons in the mine too, can't you,<N>?
+Heroic ...
+North of here, across the plain and<N>past the great stone bridge, in the<N>lands guarded by the spirit<N>Lanayru...
+You shall find one who you seek...
+...
+Ilia...
+You've got to save Ilia!
+Those monsters left me with the<N>other kids, but they must have<N>taken her somewhere else!
+Whenever I thought I couldn't go<N>on, I would think of you and Ilia<N>and hold on, ...
+See? I... I'm fine now.
+Remember what I told you back in<N>Ordon, ?
+When I grow up, I'm going to be<N>just like you, !
+So you don't have to worry about<N>me anymore! Go help Ilia!
+Leave the children to me. I will<N>watch over them, I swear it.
+Do not let their fates trouble you.<N>Go to those who need you.
+In Hyrule, countless tales are told<N>of the ancient hero...and your<N>deeds bring them all to mind.
+May the graces of the great<N>goddesses who shaped Hyrule bear<N>you on your way.
+I really, REALLY need to get it, so<N>keep your eyes peeled!
+There are two more Fused<N>Shadows... Let's get a move on and<N>find them both!
+Hurry! We need to head to the<N>Eldin Province to the east!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alter pitch Howl
+Nothing happened...
+If you want to cross Kakariko<N>Gorge, we need to find something<N>to span it...
+We need to get back to Faron<N>Woods and look for something we<N>can use.
+Enough already. Quiet down and<N>look for the light spirit Eldin...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You make sure to get that last<N>Fused Shadow, now!
+Eee hee! See you later!
+My name is Lanayru.
+Your efforts have at last restored<N>each of us light spirits in Hyrule.
+O hero chosen by the gods...
+The dark power that you seek...
+It waits in a temple set in the bed<N>of Lake Hylia.
+...But before seeking it, you must<N>now bear witness to something...<N>and never forget it.
+You must know that it was the will<N>of the goddesses that we lock away<N>the forbidden power...
+When all was chaos, the goddesses<N>descended and gave order and life<N>to the world.
+They granted power equally to all<N>who dwelt in the light, and then<N>returned to the heavens.
+The lands where the goddesses<N>descended came to be known as<N>the Sacred Realm.
+For ages, the people lived at ease,<N>content in mind and body...
+But soon, word of the Sacred Realm<N>spread through Hyrule, and a great<N>battle ensued...
+Among those living in the light,<N>interlopers who excelled at magic<N>appeared.
+Wielding powerful sorcery, they<N>tried to establish dominion over<N>the Sacred Realm.
+It was then that the goddesses<N>ordered us three light spirits to<N>intervene.
+We sealed away the great magic<N>those individuals had mastered.
+You know this magic...
+It is the dark power you seek...<N>the Fused Shadow.
+O hero chosen by the goddesses...<N>Beware...
+Those who do not know the danger<N>of wielding power will, before long,<N>be ruled by it.
+Never forget that...
+You have a bark, right? Then you<N>should also have a bite! ATTACK!
+If you don't help the spirit, we<N>won't have a chance of finding that<N>Fused Shadow.
+Hey, don't think for a second that I<N>care about your world of light...<N>I don't! I'm helping you because I<N>have to! You remember that!
+The dark power is in the sacred<N>land of the proud mountain people.<N>...At least, I THINK that's what the<N>spirit said.
+The place you need to go...<N>You know where that is, right?
+Hey... The light spirit is waiting<N>for you.
+
+That is a Zora child! This is beyond<N>my expertise! Hmmmph!
+Doctor, wait! If something isn't<N>done, this child will...
+Well, this isn't good. A human<N>doctor won't do, huh...
+That old coot reminded me,<N>though... I've heard of a shaman in<N>Kakariko Village, in the Eldin lands,<N>who's tended Gorons and Zoras.
+Is that true? Perhaps if we take him<N>there...
+Inadvisable! Too dangerous!<N><N><N><N>But we can't turn a blind eye to a<N>pretty girl in need, either.<N><N><N>Yes, we'd better escort you!<N>Am I right, boys?!
+Well, isn't that nice.
+To reach Kakariko, we've got to<N>cross two plains that are each<N>infested by dangerous beasts.<N><N>But we'll be safe now!
+
+Cowards! Don't EVER show your<N>faces here again!
+Oh my!
+Looks like we've got one young<N>swordsman left!
+And not only that, but it looks like<N>this brave young man will escort us,<N>so get ready to go, honey. Pronto!
+You know that girl, don't you?
+It's a real shame... She can't even<N>remember her own name right now.
+Bless her heart...
+She found this poor boy collapsed<N>in the road, so she did all she<N>could to save him.
+More courage in that girl than in all<N>the soldiers of Hyrule, for sure!
+You lend your strength to her,<N>you hear me?
+So you say the bridge to the east<N>has been destroyed, huh? Then our<N>only option is to cross the bridge<N>to the west.
+You see what that means?
+You'll have to deal with that thing!
+Th-Thank you so much for this.<N>Um, if you don't mind me asking,<N>what's your name?
+...?!
+I will never in all my life forget your<N>kindness, .
+Little lady, I think you'd best save<N>your thanks until we're safe in<N>Kakariko...
+This swordsman of ours has great<N>eyes, honey. They're proud and<N>wild...like a feral beast.
+We need a beast right now, to keep<N>the true ones at bay. If we make it<N>to Kakariko safely, we'll just thank<N>him then, OK?
+Hurry up and listen to what it has<N>to say!
+Sounds like a Fused Shadow is<N>somewhere up that mountain...<N>so all we can do is climb!
+I don't know what that Goron's<N>problem is, but you'd better come<N>up with a way to get up that<N>mountain...and quick!
+...WHAT?! What are you talking to<N>me for? You have to help that kid!
+Ugh... Look, hurry up so you can get<N>back to finding more Fused<N>Shadows for me!
+That HAS to be the treasure that<N>the spirits entrusted to the<N>Gorons...
+What in the world are you doing?!<N>Hurry up and find the Goron mines!
+The person you're looking for is in<N>Lanayru Province, right? Well, good<N>for you.
+Head to the twilight that has fallen<N>north of Kakariko Village.
+The Fused Shadow should be there<N>too, so don't forget!
+Ugh! Where can that last Fused<N>Shadow be?
+
+...He has passed through the worst<N>of it. As long as he rests, he should<N>recover in due time.
+Do you know the fate of his<N>mother?
+Her welfare consumes him. He has<N>been mumbling deliriously about<N>her almost constantly...
+...I can see the knowledge grieves<N>you. It must be an awful memory.
+I'll stay with him until he's better!<N>No matter how long it takes!
+Is that so? Thank you, Colin.
+Hey, , about Ilia...
+Is it true, what they said about<N>her?
+Yes, she has lost her memory,<N>Colin, and regaining it will be no<N>simple task.
+But it will be all right, child.
+
+You learned the !
+Forget the  and<N>learn a new smell?
+Yes<N>No
+
+But it won't fit in your wallet<N>now, so let's put it back.
+But it won't fit in your wallet<N>now, so let's put it back.
+But it won't fit in your wallet<N>now, so let's put it back.
+But it won't fit in your wallet<N>now, so let's put it back.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skills
+If we just give her some time, I am<N>certain that Ilia will find her heart<N>again.
+So, Colin, I'd like to ask you to<N>stay in this village until then.<N>It is our turn to show the courage<N>that you have already displayed.
+Nice to see there's still hope here.<N>And it's always good to see happy<N>results repay your efforts...
+Those skills of yours... Any chance<N>you're of the mind to put them to<N>use for Hyrule?
+What hope there is in our kingdom<N>is frail and dying...but there's still<N>a group trying to do what it can.
+And I'm a member of that group.
+Call me Telma.
+I may just stay here a bit longer.<N>I'm still worried about Ilia, and...<N>Well, never mind about the rest.
+, I want to see you<N>again at my bar, you hear me?
+The bar is actually a kind of safe<N>house for my friends. There's a<N>passageway that leads to the castle<N>from in there, as well.
+If you ever need anything, stop by.<N>I'll be waiting for you, honey!
+...... H-Hurry...
+Hurry...to...Zelda...
+The Master Sword is deep within<N>Faron Woods, in the Sacred Grove.
+Get that sword and let's undo the<N>curse that Zant put on you!
+I don't even know where the Mirror of<N>Twilight is...
+But we might find a clue in the bustle<N>of Castle Town...
+The mirror shards lie in deep mountain<N>snows, within an ancient wood, and<N>somewhere in the sky...
+Hurry up and collect all the shards<N>so we can return the mirror to its<N>original state!
+
+Wait... That should have revived the<N>spirit...
+...Oh no!
+Zant!
+Did you honestly mean to take an<N>ancient and withered power like<N>this and turn it against me?
+You are a foolish traitor, Midna.
+Why do you defy your king?
+I'll use my power to take you to<N>the location of the open portal...<N>Pick where you want to go.
+When most people enter the<N>twilight, they can't come out this<N>easily. You'd better be grateful!
+You can't warp from this province<N>until you find a new portal!<N>
+You can't right now... That guy's<N>watching us...
+What are you doing? Pick which<N>one you want!
+No! This isn't the right place!<N>Get serious! Do it over!
+Hey! Are you doing that on<N>purpose to make me mad?!
+Are you trying to drive me crazy,<N>bringing me to a place like this?!<N>Give me a break!
+Looks like the path's impassable...<N>but I can get you up it if you want<N>to go.
+What do you want to do? I'll help<N>you if you want to go.
+Hey... Look...
+The Faron Woods that you know<N>so well... They're now covered in<N>twilight.
+You might not be able to come<N>back here, but... Do you still want<N>to go?
+Yes<N>No
+It really doesn't matter to me<N>what you do...
+The only thing that'll happen if you<N>just stand here is the steady<N>spread of twilight... Eee hee!
+Want me to let you into the<N>twilight?
+Yes<N>No
+You changed your mind?
+That won't work! Give it up!
+Did you hear me? You can't return<N>to the world of light that easily!
+......
+If you want to go into twilight...<N>crawl under...the bridge...
+...I should tell you... You can enter<N>the Twilight Realm...even without<N>my help...
+I'm sorry...
+If you transform here, it would<N>scare someone! You don't want to<N>do that, do you?
+No! No! Someone will see you!<N>Transform where there's no one<N>around.
+Huh? What is it?
+Warp<N>Talk to Midna
+Transform into wolf<N>Warp<N>Talk to Midna
+My KING? You, who do nothing<N>but abuse the magic of your tribe?<N>You must be joking!
+How dare you?! Are you implying<N>that my power is...our old magic?
+Now THAT is a joke!
+This power is granted to me by my<N>god! It is the magic of the King of<N>Twilight, and you WILL respect it!
+My Midna... Did you forget? That<N>beast is one of the light dwellers<N>who oppressed our people.
+No matter how much you may<N>desire otherwise, you will never be<N>more than a shadow in their world.<N>You cannot consort with their kind!<N>But if we can make their world<N>ours, Midna...light and darkness<N>will meet at last.
+Our tribe will take back their<N>realm...and sweet darkness will blot<N>out this harsh light!
+And that, Midna, is why...
+I need you.
+Not just for me, but for all of our<N>people... Lend me your power.
+So be it... I will return you to the<N>light world you covet!
+, hero chosen by the<N>goddesses...
+Go to the princess locked away in<N>the castle.
+That princess holds the key that<N>can unlock you from your shadow<N>form...
+There are two mirror shards left!<N>There should be one hidden in an<N>ancient wood and another somewhere<N>in the sky.
+Hurry up and collect the last two<N>shards so we can return the mirror<N>to its original state!
+There's one more mirror shard to<N>find... Somehow, we have to get to<N>the sky...
+Doesn't someone know the spell<N>that will restore power to the<N>Dominion Rod?
+All right! Up to the sky to find that<N>last mirror shard!
+You've collected all the shards of<N>the Mirror of Twilight...
+Now, , let's hurry!<N>To the Mirror Chamber!
+Zant is in the Twilight Realm!
+I want to help Zelda and the people<N>of Hyrule... I truly do.
+
+Midna!
+Please... Please tell me... How do<N>we break...the curse on this one?
+This...is the one... You need him...<N>to save your world!
+That's why... Princess... Please...<N>You must help ...
+What binds him is a different magic<N>than what transformed him when he<N>first passed the curtain of twilight.<N>It is an evil power.
+Our world is one of balance...<N>Just as there is light to drive away<N>darkness, so, too, is there<N>benevolence to banish evil.
+Head for the sacred grove that lies<N>deep within the lands guarded by the<N>spirit Faron.
+There you will find the blade of<N>evil's bane that was crafted by<N>the wisdom of the ancient sages...<N>the Master Sword.
+The Master Sword is a sacred blade<N>that evil can never touch.
+Evil cloaks you like a dark veil...<N>and that blade is the only thing<N>that can cleave it.
+... Hero sent by the<N>goddesses...
+Like you, I have been granted<N>special powers by the goddesses...
+Fine... ... You can...<N>You can get to the woods...on your<N>own, right?
+Princess... I have one last<N>request...
+Can you tell him...where to find the<N>Mirror of Twilight?
+Midna... I believe I understand now<N>just who and what you are...
+Despite your mortal injuries, you<N>act in our stead...
+These dark times are the result of<N>our deeds, yet it is you who have<N>reaped the penalty.
+Accept this now, Midna. I pass it to<N>you...
+No! ! STOP HER!
+We go back, ! Back to<N>Faron Woods!
+Zelda... I've taken all that you had<N>to give...though I did not want it.
+Please, ... Help me.<N>Help me defeat Zant!
+We must save Princess Zelda,<N>! We must!
+To Hyrule Castle!
+Hurry, let's head to the Eldin<N>Province to the west!
+There should be a spirit whose<N>light was stolen somewhere in<N>these lands, too...
+You know what to do, right?<N>First we need to find the spirit or<N>we won't be able to return the<N>light to this land!
+They said we can't get to the<N>spirit's spring... What's that<N>supposed to mean?
+
+The sword accepted you as its<N>master...
+This thing is the embodiment of the<N>evil magic that Zant cast on you.
+It's definitely different from our<N>tribe's shadow magic...
+Careful... If you touch it, you'll turn<N>back into a beast!
+This thing is too dangerous...<N>It's probably for the best if we<N>just leave it here, huh?
+But on the other hand...if we kept<N>it, you'd be able to transform into<N>a beast anytime you wanted...
+Yes, since Zant was kind enough<N>to give this to us, we should be<N>thankful and use it all we can!
+If you need it, just call me. I want<N>to keep a low profile, so I'll hide in<N>your shadow when you're human,<N>but I can change you whenever.<N>You can be a wolf anytime you like!<N>Also, thanks to this thing, you can<N>warp whenever you want by<N>switching into wolf form...
+STAFF CREDITS<N><N>DIRECTOR<N>Eiji Aonuma<N><N>SUB-DIRECTORS<N>Makoto Miyanaga<N>Yoichi Yamada
+The darkness has been in Kakariko<N>Village has been lifted.<N>Flag 61 has been turned ON.
+Carriage convoy game start<N>Flag 66 has been turned ON.
+Lava fusion event temporary demo<N>Please end the dark cargo (big) event<N>(Event flag 84 = please turn it ON)
+After seeing the lava fusion on Death Mountain<N>Flag 65 has been turned ON.<N>(Condition: Even flag 84 has been turned ON)
+
+SUB-DIRECTORS<N>Shinichi Ikematsu<N>Daiji Imai<N>Koji Kitagawa<N>Hiromasa Shikata<N>Kentaro Tominaga
+SCRIPT<N>Aya Kyogoku<N>Takayuki Ikkaku
+LEVEL PLANNING<N>Ryutaro Kanno<N>Minoru Narita<N>Yugo Hayashi<N>Kosuke Yabuki<N>Kosono Okina
+BOSS BATTLE PLANNING<N>Kenta Usui<N><N>DATA MANAGEMENT<N>Shigeo Kimura<N>Hajime Nakamura
+PROGRAM DIRECTORS<N>Kazuaki Morita<N>Toshio Iwawaki
+MAIN PROGRAMMING<N>Makoto Sasaki<N><N>PLAYER PROGRAMMING<N>Hiroshi Umemiya
+UI SYSTEM PROGRAMMING<N>Nobuo Okajima<N>Atsushi Sakaguchi<N>Shigeki Yoshida
+Hey, but listen, ...<N>I've got a little favor to ask...
+Would you mind coming with me to<N>find something called the Mirror of<N>Twilight? It's hidden somewhere<N>in Hyrule...
+Yes, the Mirror of Twilight...<N>Our last potential link to Zant!
+Well, if there's a spirit in Lake<N>Hylia, then we need to go there.
+All right... I wonder where the<N>spirit Eldin could be?
+
+A cursed mirror that sends people<N>to another realm... That sounds like<N>the Mirror of Twilight.
+, hurry.
+If you put on that armor the Zora<N>queen gave you, you should be able<N>to dive even to the bottom of the<N>lake with ease.
+I know it's been a lot of trouble,<N>but we've got the last Fused<N>Shadow almost in our grasp...
+We're headed for the underwater<N>temple in Lake Hylia...so make sure<N>you're prepared!
+
+Wait, .
+Before we go on, there's something<N>I want you to hear.
+...Do you remember what the spirit<N>said about the Fused Shadows?
+What do you think happened to<N>the magic wielders who tried to<N>rule the Sacred Realm?
+They were banished. They were<N>chased across the sacred lands of<N>Hyrule and driven into another<N>realm by the goddesses.
+It was another world entirely...<N>The antithesis of Hyrule, where the<N>sun shines bright.
+Its denizens became shadows that<N>could not mingle with the light.
+Eventually, most came to call it the<N>Twilight Realm, and from it, none<N>could return to the world of light...
+They were forever doomed to live in<N>the twilight, flitting in the half-light<N>of dusk, mere shadows of Hyrule...
+This is the history of the Twili as it<N>has been passed down from our<N>ancestors...
+Do you now understand what I am?
+I'm a descendant of the tribe that<N>was banished to the Twilight Realm!
+It was a peaceful place...until Zant<N>took control of the Twilight Realm<N>and transformed all of the Twili<N>into shadow beasts.
+It's clear to me now that he<N>somehow gained a great evil power<N>previously unknown to our tribe...
+In any case, I was sent from there,<N>and could no longer get into the<N>Twilight Realm without his power.
+...But there's another tale told by<N>my people.
+Though the goddesses forbade us<N>to return to the world of light, they<N>left one link between the light and<N>the darkness.
+Something called the Mirror of<N>Twilight was passed to the<N>protectors of Hyrule...
+It's our only path to the Twilight<N>Realm...and we must get there!
+You'll come with me...won't you?
+What's going on around here?!<N>I don't understand...
+I think the spirit's spring should be<N>around here somewhere. Let's look<N>around some more...
+Why don't you start by looking<N>around here?<N>
+
+It sure does seem like something<N>strange is going on in this lake...
+All you have to do is find the dark<N>insects and reclaim all the Tears of<N>Light, right?
+Use the  map to find the locations<N>of the bugs. It's so simple!
+That just leaves using your <N>senses and attacking! Hurry up and<N>start looking!
+If you don't help the light spirits,<N>this world will forever be covered<N>in twilight as it is now.
+
+Some call our realm a world of<N>shadows, but that makes it sound<N>unpleasant...
+The twilight there holds a serene<N>beauty... You have seen it yourself<N>as the sun sets on this world.
+Bathed in that light, all people were<N>pure and gentle...
+But things changed once that foul<N>power pervaded the world...
+It was all our doing...
+We overestimated our abilities as<N>sages and attempted to put an end<N>to Ganondorf's evil magic...
+I hope you can find it in yourself<N>to forgive our carelessness...
+O Twilight Princess.
+What? So...you knew?
+As a ruler who fled her people, I'm<N>hardly qualified to forgive you.
+In our world, we've long believed<N>that the Hero would appear as a<N>divine beast.
+That's why when I found you,<N>I thought I could use you,<N>.
+And I only cared about returning<N>our world to normal...
+I didn't care what happened to the<N>world of light, not at all.
+But after witnessing the selfless<N>lengths that Princess Zelda and you<N>have gone to... Your sacrifices...
+I now know, in the bottom of my<N>heart, that I must save this world,<N>too. There is no other way.
+If we can just defeat Zant, the<N>curse on me will dissolve, and we<N>may be able to revive Zelda.
+Let's go, ! For Zelda!<N>For all of this world!
+
+
+A dark entity lurks in the twilight...<N>It houses an evil power...
+You who are guided by fate...<N>You who possess the crest of the<N>goddesses... Hear us.
+At the command of the goddesses,<N>we sages have guarded the Mirror<N>of Twilight since ancient times.
+You seek it...but the Mirror of<N>Twilight has been fragmented by<N>mighty magic.
+That magic is a dark power that<N>only he possesses...
+His name is...
+Ganondorf.
+He was the leader of a band of<N>thieves who invaded Hyrule in the<N>hopes of establishing dominion<N>over the Sacred Realm.
+He was known as a demon thief, an<N>evil-magic wielder renowned for<N>his ruthlessness...
+But he was blind...
+In all of his fury and might, he was<N>blind to any danger, and thus was<N>he exposed, subdued, and brought<N>to justice.
+Yet...
+By some divine prank, he, too,<N>had been blessed with the chosen<N>power of the gods.
+His abiding hatred and lust for<N>power turned to purest malice...
+Perhaps that evil power has been<N>passed on to Zant...
+You're just now figuring out where<N>Zant got his power? It's far too<N>late...
+Only the true leader of the Twili<N>can utterly destroy the Mirror of<N>Twilight...so Zant could merely<N>break it into pieces.
+Once broken by magic, the Mirror<N>of Twilight became fragments,<N>which even now lie hidden across<N>the land of Hyrule.
+One is in the snowy mountain<N>heights...
+One is in an ancient grove...
+And one is in the heavens...
+You who have been sent by the<N>goddesses... You should be able to<N>gather the three pieces...
+But you must be prepared, for a<N>dangerous power resides in those<N>fragments...
+You'd better fill the Vessel of Light<N>with all of the tears or there's no<N>telling what will happen... Eee hee!
+
+So that must mean that we can't<N>get to the spirit's spring because<N>Lake Hylia's dried up, right?
+Hmm... First, we'd better do<N>something about Lake Hylia...
+Oh no... Do I have to hold your<N>hand through this?
+Amazing... There isn't even a drop<N>of water in the river...
+
+Zant.
+Isn't this ironic? Here we are, all<N>thanks to the dark magic curse you<N>placed on !
+You speak of magic? Still your<N>tongue for a moment, whelp, and I<N>will tell you of both magic and<N>the oppression of ages...
+The people of our tribe...a tribe<N>that mastered the arts of magic...<N>were locked away in this world like<N>insects in a cage.
+In the shadows we regressed,<N>so much so that we soon knew<N>neither anger nor hatred...nor even<N>the faintest bloom of desire.
+And all of it was the fault of a<N>useless, do-nothing royal family<N>that had resigned itself to this<N>miserable half-existence!
+I had served and endured in that<N>depraved household for far too<N>long, my impudent princess.
+And why, you ask? Because I<N>believed I would be the next to rule<N>our people! THAT is why!
+But would they acknowledge me as<N>their king? No! And as such, I was<N>denied the magic powers befitting<N>our ruler.
+It was then, in the thrall of hatred<N>and despair, that I turned my eyes<N>to the heavens...and found a god.
+I shall house my power in you...
+If there is anything you desire,<N>then I shall desire it, too.
+My god had only one wish...
+To merge shadow and light...and<N>make darkness!
+We should reach the water source if<N>we stay on this path, right? Right.<N>So let's hurry!
+Who'd have thought that Zora's<N>Domain was covered in ice...
+Oh no...  I can't believe what we've<N>gotten ourselves into.
+
+
+
+Y-You...TRAITORS!
+Traitors, ha! You want to know why<N>none would call you king? It was<N>your eyes, Zant.<N><N>All saw it, a lust for power burning<N>in your pupils... Did you think we'd<N>forget our ancestors lost their king<N>to such greed?
+Midna... Foolish Twilight Princess...<N>The curse on you cannot be<N>broken...
+It was placed on you by the magic<N>of my god! The power you held as<N>leader of the Twili will never return!
+Already he has descended and<N>been reborn in this world...<N><N><N>As long as my master, Ganon,<N>survives, he will resurrect me<N>without cease!
+I... I used just a fraction of the<N>power that's in me now...
+I did THAT using only a fraction<N>of my ancestors' magic?!
+! Now is the time!<N>We must save Zelda!
+The evil power Zant was wielding...<N>I couldn't take it from him. But at<N>least I still have the magic of my<N>ancestors...
+With it, I can return the cherished<N>power Zelda bestowed upon me...
+Now! Let's go! Princess Zelda is<N>waiting!
+
+
+This is not a time for idle chitchat!<N>Hurry up and get it done!
+! Pay attention!
+That's your town, right? Don't ask<N>me, you should know in your heart!
+If you want to save the<N>townspeople, you must go back<N>into the twilight!
+It's your town, isn't it?! Don't you<N>have some idea of where a sword<N>might be?!
+Take advantage of the way you<N>look! Rather than ask me, why<N>don't you try asking the animals?!
+
+Welcome to my castle.
+So you're...Ganondorf.
+I've been dying to meet you.
+Your people have long amused me,<N>Midna. To defy the gods with such<N>petty magic, only to be cast aside...<N>How very pathetic.
+Pathetic as they were, though, they<N>served me well. Their anguish was<N>my nourishment.
+Their hatred bled across the void<N>and awakened me. I drew deep of<N>it and grew strong again.
+Your people had some skill, to be<N>sure...but they lacked true power.
+The kind of absolute power that<N>those chosen by the gods wield.
+He who wields such power would<N>make a suitable king for this world,<N>don't you think?
+Ha! Such conceit!
+But if you are one of the chosen<N>wielders of power, as you claim...
+I will risk everything to deny you!
+I will risk everything to deny you!
+Shadow has been moved by light,<N>it seems...
+...How amusing.
+Very well... Deny me, then!
+Yes, try to deny me... You and your<N>little friend...
+Both of you, faithless fools who<N>would dare to take up arms against<N>the king of light and shadow...
+I don't know where the Mirror of<N>Twilight is, but it should be<N>somewhere in Hyrule.
+I want you to help me find the<N>mirror, our only connection to<N>Zant...
+
+You listening? Look for a sword<N>and shield that'll suit me. Got it?
+Sounds like there should be a<N>shield at the house with the<N>waterwheel. Sneak in there and<N>take it, will you?
+The location of the shield...<N>You know where it is, right?
+Go back to the house with the<N>waterwheel and get it!
+Sounds like the sword that was<N>supposed to be an offering to<N>Hyrule was left on top of the sofa...
+The people around here are so<N>nice! I think we can just take it!
+If you want to save the<N>townspeople, you should return to<N>the twilight!
+The forest where you were<N>transformed into what you are<N>now... You know where it is, right?
+
+Pr-Princess... I... I... 
+Say nothing, Midna...
+Your heart and mine were as one,<N>however briefly...
+Such suffering you have endured...
+Spirits of the light! Wielders of the<N>great power that shines far and<N>wide upon the lands of our world...
+In my hour of need, grant me the<N>light to banish evil!
+...
+Chosen hero!
+Lend us the last of your power!
+All right...Now where's that<N>shield?
+Hey, come on, why don't you<N>hurry up and grab that shield!
+Ready? So... The thing that I'm<N>looking for is located in the temple<N>in Faron Woods.
+Quit lollygagging around here and<N>hurry up and look for it!
+All right, so next we have to look<N>for the sword!
+Now that we've seen it, it's not like<N>we can ignore what's happening in<N>Zora's Domain.
+Unless we can melt the ice, the<N>water will never be restored to<N>Lake Hylia.
+We have to think of a way to melt<N>the ice...
+We took the long route, but it's<N>almost time to meet the spirit...
+All right, hurry! Let's go meet the<N>spirit of Lake Hylia!
+
+When the chosen ones appear...
+They are always born into this<N>world in perfect balance.
+That is the destiny of the chosen.<N>That is the fate decreed by your<N>gods, the only path for those who<N>bear their crests. 
+When this world brings forth<N>another marked as you are...
+Know too, that it shall also be<N>visited by one of my blood.
+Do not think this ends here...
+The history of light and shadow will<N>be written in blood!
+The Lanayru province is vast, so<N>finding dark bugs in it is a task in<N>itself...<N>
+Use a portal or that bird that you<N>call near the reed whistles and get<N>it done!
+
+What? Say something!
+Am I so beautiful that you've no<N>words left?
+Well...I guess this is farewell, huh?<N><N><N><N>Light and shadow can't mix, as we<N>all know.<N><N><N>But...<N><N><N><N>Never forget that there's another<N>world bound to this one.
+Shadow and light are two sides of<N>the same coin...
+One cannot exist without the other.
+I know now the reason the<N>goddesses left the Mirror of<N>Twilight in this world...<N><N>They left it because it was their<N>design that we should meet.
+Yes... That is what I believe.
+Zelda... Your words are kind, and<N>your heart is true.
+If all in Hyrule are like you...
+Then maybe you'll do all right.
+Thank you...<N><N><N><N>Well, the princess spoke truly:<N>as long as that mirror's around,<N>we could meet again...
+...
+I...
+See you later...
+
+
+
+
+
+I think it's just a matter of time<N>before light shines on the twilight<N>in Lanayru Province.
+Hurry! Go get that last Tear of<N>Light!
+All right... This is the real thing!<N>Hurry up and find the last Fused<N>Shadow!
+I guess it's in the Lakebed Temple<N>of Lake Hylia but...can you swim?
+To get your hands on the last<N>Fused Shadow, you have to dive to<N>the bottom of Lake Hylia.
+Well then, why don't you save the<N>prince of the Zoras just as the<N>Zora queen asked?
+The Zoras are usually the<N>protectors of Lakebed Temple, so<N>I think they should help us...
+! The Mirror of<N>Twilight is so close... Let's hurry!
+Who knew that a place like this<N>existed within Faron Woods...
+Sounds like the wind... Do you<N>hear something, ?
+
+
+ITEMS
+MAP
+BACK
+Point the Wii Remote at the screen.
+
+
+
+
+
+
+..., listen to me.<N>You can probably repel those energy<N>orbs with light from the Twilight<N>Realm...
+, your sword has that<N>power now...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most people who enter the<N>twilight can't get out so easily,<N>so you'd better be grateful!
+Within Twilight
+
+Transform into human<N>Warp<N>Talk to Midna
+What is it, ?
+Give it up! If you were to go<N>somewhere else now, you wouldn't<N>be able to warp back here!
+If you want to warp from here, you<N>have to find a portal in this area<N>first!
+Wow, the water's gotten cold...
+No, ! The darkness is<N>too powerful in fog like this.<N>Remain in wolf form!
+Your shield burned up...
+Let teachings of old pass to you...
+Take sword in hand and find me...
+No! Stop! If you change now,<N>you'll only cause more of an<N>uproar...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some red potion.<N><N>Set it to  and drink it with  to<N>replenish 8 hearts.<N>
+
+
+A fairy that will give you strength when<N>your life energy is depleted.<N><N>Set it to  and use it to recover<N>8 hearts immediately.<N>It won't revive you in water.
+Death Mountain hot springwater.<N><N>Set it to and drink it with  to<N>replenish all hearts.<N>If it cools down, it will be just water.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oil for your lantern.<N><N>With the lantern set, use it with  to<N>refuel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Larvae taken from a beehive.<N>Press  to eat them to replenish a quarter<N>heart per larva.<N>With your fishing rod in hand, set them to <N>to use them as bait.<N>Use them with your rod baited to eat them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A golden-bodied  butterfly.<N>It was found in the field east of<N>Castle Town.
+A golden-bodied  butterfly.<N>It was found in the field east of<N>Castle Town.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spirits held by Poes visible to<N>honed senses. Collect 20 or more<N>of them and take them to Jovani.
+Spirits held by Poes visible to<N>honed senses. Collect all 60<N>of them and take them to Jovani.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORIGINAL TRANSLATION<N>Nate Bihldorff<N>Scot Ritchey<N>Thomas Ito<N>MichaÎl Hugot<N>Barbara Pisani<N>Jes˙s ¡ngel RodrÌguez Gago
+TESTING & QUALITY ASSURANCE<N>Mario Club Co., Ltd.<N>NOA Product Testing<N>NOE Quality Assurance<N>Pole To Win Co., Ltd.
+SPECIAL THANKS<N>Hisashi Sekoguchi<N>Ryota Maruko<N>Hitoshi Kanetani<N>Shunsuke Matsushita<N>Fumihiko Hayashi
+SPECIAL THANKS<N>Yuta Ogawa<N>Shingo Okamoto<N>Toru Inage<N>Yoshito Yasuda<N>Takayuki Higuchi
+SPECIAL THANKS<N>Yasuharu Ohta<N>Takeshi Tamura<N>Toshiaki Suzuki<N>Andrea De Benedetto<N>Benedict Arthur Barrow
+SPECIAL THANKS<N>Laurent Siddi<N>Sascha Michalke<N>Matteo Zuzzi<N>Juan Keller
+PRODUCER<N>Eiji Aonuma
+SENIOR PRODUCERS<N>Katsuya Eguchi<N>Shinya Takahashi
+GENERAL PRODUCER<N>Shigeru Miyamoto
+EXECUTIVE PRODUCER<N>Satoru Iwata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Legend of Zelda: Twilight Princess HD<N><N>STAFF CREDITS<N><N><N><N><N><N><N><N><N>Tantalus<N><N><N><N>PROJECT MANAGEMENT<N>Joss Ellis<N>Tom Crago<N>David Giles<N><N><N><N>LEAD PROGRAMMING<N>Sean O'Sullivan<N><N><N><N>PROGRAMMING<N>Daniel Bower<N>Allen Weeks<N>Bradey Smith<N>Carl Sandland<N><N><N><N>SOUND PROGRAMMING<N>Geoff Browitt<N><N><N><N>GAME DESIGN SUPPORT<N>Adrian Moore<N><N><N><N>LEAD ART DIRECTOR<N>Paul Court<N><N><N><N>ART DIRECTORS<N>Parot Dhiraputra<N>Emily McGregor<N><N><N><N>MENU DESIGN<N>Jared Spicer<N><N><N><N>QUALITY ASSURANCE<N>David Doe<N>Jeanne-Clare Storace<N>Scott Foran<N><N><N><N>ADDITIONAL ART<N><N><N><N>ART PROGRESS MANAGEMENT<N>Brad May<N>Garth Midgley<N><N><N><N>ADDITIONAL ART DIRECTOR<N>Oberon Bradford<N><N><N><N>TECHNICAL SUPPORT<N>Tung Nguyen<N>Fotini Ioannidis<N><N><N><N>LEAD GRAPHICS DESIGN<N>Nick Hower<N>Jack Crosby<N><N><N><N>GRAPHICS DESIGN<N>Ayden Polat<N>Dylan Beazley<N>Clayton Barton<N>Trent Denham<N>Mel Guzzardi<N>Shenae Guzzardi<N>Hayden Desailly<N>Paco Casares<N>Mary Jane Kim<N>Thomas Hernandez<N>Blake Hollins<N>Stephen Jeal<N>Pino Gengo<N>Brad Nestor<N>Ian Bright<N>Sebastian Larsson<N>Ray Leung<N><N><N><N>ENDING MUSIC ARRANGEMENT<N>Michiru Oshima<N><N><N><N><N><N><N><N><N>Nintendo<N><N><N><N>ART SUPERVISOR<N>Satoru Takizawa<N><N><N><N>PROGRAM SUPERVISORS<N>Takuhiro Dohta<N>Kenji Yamamoto<N><N><N><N>SOUND SUPERVISORS<N>Takahiro Watanabe<N>Toru Minegishi<N><N><N><N>STAMP DESIGN<N>Yusuke Nakano<N><N><N><N>STAMP EDITING<N>Masahiko Mashimo<N><N><N><N>ARTWORK<N>Kazuya Yoshioka<N><N><N><N>MANUAL EDITING<N>Jonghoon Park<N><N><N><N>COORDINATION<N>Kiyohiko Ando<N>Paul Logue<N>Tomohiro Yamamura<N><N><N><N>ASSISTANT DIRECTOR<N>Tomomi Sano<N><N><N><N><N><N><N><N><N>Nintendo of America<N><N><N><N>NOA LOCALIZATION MANAGEMENT<N>Leslie Swan<N>Nate Bihldorff<N>Scot Ritchey<N><N><N><N>NOA LOCALIZATION<N>David Carrasco LÛpez<N>Ryan Nathaniel Kelley<N>Scott Willson<N>ThaddÈe Wiseur<N><N><N><N><N><N><N><N><N>Nintendo of Europe<N><N><N><N>NOE LOCALISATION MANAGEMENT<N>Fabrizio Cattaneo<N><N><N><N>NOE LOCALISATION<N>Araceli MazÛn Figueroa<N>Greg T. Sadownik<N>Pete Sheppard<N>David CaussËque<N>Natacha Faubert<N>Arne Glinka<N>Sven Pˆtzl<N>Bruno Gramigna<N>Giaime Carbonara<N>Cristina Sol‡ Picas<N>Ra˙l Guerrero Plaza<N><N><N><N>ORIGINAL TRANSLATION<N>Nate Bihldorff<N>Scot Ritchey<N>Thomas Ito<N>MichaÎl Hugot<N>Barbara Pisani<N>Jes˙s ¡ngel RodrÌguez Gago<N><N><N><N><N><N><N><N><N>TESTING & QUALITY ASSURANCE<N>Mario Club Co., Ltd.<N>NOA Product Testing<N>NOE Quality Assurance<N>Pole To Win Co., Ltd.<N><N><N><N><N><N><N><N><N>SPECIAL THANKS<N>Hisashi Sekoguchi<N>Ryota Maruko<N>Hitoshi Kanetani<N>Shunsuke Matsushita<N>Lauren Wells<N>Yuta Ogawa<N>Shingo Okamoto<N>Toru Inage<N>Yoshito Yasuda<N>Takayuki Higuchi<N>Yasuharu Ohta<N>Takeshi Tamura<N>Hiroki Matsuda<N>Toshiaki Suzuki<N>Ryunosuke Suzuki<N>Andrea De Benedetto<N>Benedict Arthur Barrow<N>Laurent Siddi<N>Sascha Michalke<N>Matteo Zuzzi<N>Juan Keller<N><N><N><N><N><N><N><N>PRODUCER<N>Eiji Aonuma<N><N><N><N>SENIOR PRODUCERS<N>Katsuya Eguchi<N>Shinya Takahashi<N><N><N><N>GENERAL PRODUCER<N>Shigeru Miyamoto<N><N><N><N><N><N><N><N><N><N><N><N>Nintendo is the author of this software<N>for the purpose of copyright.<N>All rights reserved.<N><N>© 2006-2016 Nintendo
+
+About Ilia's memory...
+-Dear Adventurer-
+-Dear Adventurer-
+Post Office Notice
+URGENT NOTICE!
+Good stuff inside!
+Rare item in stock!
+URGENT! Bomb arrows!
+Heroes, come together!
+They came so quickly!
+Challenge for you!
+To My Wandering Lambs!
+Agitha's Dream
+Now open for business!
+To ...
+Hey, kid!!!
+Update
+From Wife of Yeto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Renado
+Ooccoo
+Ooccoo
+The Postman
+Kakariko Goods
+Barnes
+Barnes
+Barnes Bombs
+Malo Mart
+Telma
+Purlo
+Fanadi's Palace
+Princess Agitha
+Lanayru Tourism
+Impaz
+From Jr.
+Shad
+Yeta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,<N><N>There is something about Ilia's<N>memory that I wish to tell you.<N><N>I know you are busy, but please<N>come visit me in my sanctuary in<N>Kakariko Village. 
+Oooh, I was so happy to see you<N>the other day. I really had fun!<N><N>I was also so happy to see my<N>son's face again. SO HAPPY!<N><N>I'd like you to know, we will be<N>heading to another location soon.<N><N>If you continue on your travels,<N>chances are that we'll meet again.<N><N>My son and I are certainly looking<N>forward to seeing you again.<N>Take care of yourself!<N>           Ooccoo
+I was so happy to meet you and<N>spend a bit of time with you!<N><N>I am planning a trip to a new<N>location, just so you know.<N><N>If you continue your journeys,<N>we might see each other again!<N><N>So take care of yourself...<N><N><N>P.S. I didn't have a chance to tell<N>you this last time, but I have a<N>son. I'll introduce you if we meet<N>again! He's a good boy who can<N>help you like an item, so be nice!<N><N>                      From Ooccoo
+  About Mail Delivery<N><N>If I have a letter for you, I will<N>approach you at high speed!<N>Please do not flee!
+New sundries shop in Kakariko!<N><N>If you haven't already been by to<N>look, I have an item that isn't<N>available anywhere else! Come by<N>before someone else snatches it!<N><N>And please, no window shoppers!
+Finally, we've finished production<N>on a new type of bomb! These<N>ones can be used in the water!<N>We have them in stock NOW!<N>Come by and pick YOURS up!<N><N>         Barnes of Kakariko
+How've you been? Still a bomb<N>enthusiast? Still loving bombs?<N><N>Well, I've got some interesting<N>bombs in, so come on by and<N>pick some up!<N><N>Wait'll you see what these<N>babies can do!<N>         Barnes of Kakariko
+Thank you for your patronage!<N>Enjoy the power of our bombs!<N><N>Not only can you place and throw<N>our bombs, but they can be<N>combined with the bow by going<N>to the item screen and using <N>to create bomb arrows.<N>Try it today!
+Malo Mart, the hero of discounts,<N>is finally open in Castle Town!<N>We've got all you need for that<N>upcoming trip, and we offer it at<N>unbelievable prices!<N><N>!GRAND OPENING SPECIAL!<N>Magic Armor (Limit 1)<N>Act fast, heroes!
+, there are some<N>folks I want you to meet, so come<N>to my bar right away. These guys<N>will be powerful allies for you.<N><N>You heard me! Come by! I'll be<N>waiting at my Castle Town bar.<N>                                          Telma
+Ladies and gentlemen!<N>The STAR game that has swept<N>Hyrule by storm is now available<N>in Castle Town!<N><N>Even those of you who have<N>beaten it once will find all new<N>challenges and thrills!<N><N>Come find us in the tent on the<N>west gate road! We'll be waiting!
+Ladies and gentlemen!<N>The STAR game that has swept<N>Hyrule by storm is now available<N>in Castle Town!<N><N>Even those of you who have<N>beaten it once will find all new<N>challenges and thrills!<N><N>Come find us in the tent on the<N>east gate road! We'll be waiting!
+- Failure at work?<N>- Failure in love?<N><N><N>Here at Fanadi's Palace we can<N>immediately solve all these problems<N>and more!<N><N>Take your first step toward a new<N>life and let your feet lead you<N>down Castle Town's southwestern<N>thoroughfare!
+- Failure at work?<N>- Failure in love?<N><N><N>Here at Fanadi's Palace we can<N>immediately solve all these problems<N>and more!<N><N>Take your first step toward a new<N>life and let your feet lead you down<N>Castle Town's southeastern<N>thoroughfare!
+Agitha had a dream last night.<N><N>Butterflies surrounded Agitha and<N>lifted her up to the sky.<N><N>As she waved to the people below<N>in Castle Town, she could see so<N>many people, some waving back,<N>others staring wide-eyed.<N><N><N><N>Agitha flew in a big circle above<N>Hyrule Field and the butterflies<N>formed into a bed beneath her<N>and said, "Let's play again..."<N>Soon they faded away and she<N>woke up in her own bed.<N><N>Ohh... Agitha wants so badly to<N>fly in the sky...
+The Lanayru Tourist Association<N>has prepared a grand tour of<N>natural splendor!<N><N>Our current main attraction is Iza<N>and Hena's Playground for<N>Grown-ups!<N><N>You'll find both immediately down<N>the riverbank from the Zora<N>waterfall pool.<N><N>Iza's Rapid Ride<N>Shoot at targets while riding the<N>raging river rapids! No extra<N>charge for using bomb arrows!<N><N>Hena's Fishing Hole<N>It's a fight against nature with<N>lure fishing! What kind of fish can<N>you catch?<N><N>We look forward to seeing you<N>there!
+Thank you so much for beating<N>those beasts the other day.<N><N>Is the girl doing well? I certainly<N>hope so.<N><N>Though there isn't much to do<N>here, please stop in sometime!
+<N><N><N><N>Wow, kid! Awesome!<N><N><N><N><N><N><N><N>(My son said that he wanted to<N>write you a letter... He worked so<N>hard on it! Goodness, yes!)<N><N>We thank you for all your help,<N>both on land and in the sky. The<N>other Oocca thank you, as well.<N><N>Come visit us anytime! Take care!
+
+Dear ,<N><N>After we parted, I tried that word<N>on all the statues I could find in<N>Hyrule, but it was a disaster!<N>How disappointing!<N><N>...But if I let something so small<N>get to me, my dear father will<N>scoff at me from beyond the<N>mortal coil.<N><N>I'm going back to the sanctuary in<N>Kakariko Village to see if I can't<N>find another lead.<N><N>I certainly hope that if you find<N>any more information, you will<N>share it with me posthaste.<N><N>The dream chaser, Shad
+I feel bad. You paid me visit and<N>I not much help.<N><N>I feel better now. Husband and I<N>sled lots now. Very much fun.<N><N>, you join us at<N>Snowpeak sometime!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stamp Collection
+Press  to view a list of all<N>the stamps you've found so far.<N><N>%d/%d Stamps Found
+Page %d/%d
+Post
+Next
+Previous
+You've collected 49 stamps. Well done!<N>Here is a special stamp as a reward!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It feels creepy...<N>, be careful.
+So that big monster with the horns<N>built a base in a place like this?!
+This place looks like it'll be<N>crawling with enemies, so be<N>careful, OK?
+Looks like you're trapped...
+Who knows what's around here, so<N>don't let your guard down...
+Not this guy again!
+Hmph! Let's teach him that flailing<N>a giant axe around is NEVER a<N>good idea!
+If we want to get out of here, the<N>only thing we can do is break down<N>the gate!
+Look! That boar looks strong<N>enough to do the job!
+Hey, don't lose sight of that<N>monkey!
+Now that you don't have your<N>lantern, you kind of have to follow<N>her, right?
+Well, well... This place is hopping...<N>Eee hee!
+Maybe if you light the candles,<N>you'll find the basement entrance...<N>Don't you think? This sanctuary is<N>old, but it sure is extravagant!
+You haven't forgotten about the<N>spirit, have you? Hurry up and talk<N>to it!
+Hurry up and get the gift from the<N>Zora queen!
+Apparently that girl is holding the<N>key to the sky...
+, we have to help her<N>get her memory back!
+I'm happy we were able to help that<N>girl get her memory back.
+And as a result, we were able to get<N>a tip on how to get to the sky!
+, almost done!
+It looks as though this is the<N>summit.
+Hey... Hey! A giant white beast<N>holding a red fish...
+At least your efforts yielded<N>something... Who would have<N>thought the yeti would have one of<N>the mirror shards?
+All right! Let's hurry to the yeti's<N>house!
+If we follow the scent, we may be<N>able to get through the snow!
+We don't have any other option<N>right now... We'll just have to give<N>it a try!
+Hurry! Let's get the mirror shard<N>from the house of the Snowpeak<N>yeti!
+Skill One
+Skill Two
+Skill Three
+Skill Four
+Skill Five
+Skill Six
+Last Skill
+Shield Attack
+Ending Blow
+Back Slice
+Helm Splitter
+Mortal Draw
+Jump Strike
+Great Spin
+While -targeting your enemy,<N>press  to shove with your shield.<N>You can also reflect your foe's<N>projectiles back at them!
+When your enemy is down, quickly<N>-target and press  to deliver the<N>mortal strike.
+While -targeting, roll around your<N>opponent by jumping with  and<N>attack midroll by pressing .
+While -targeting the enemy,<N>perform a shield attack and then<N>immediately attack with .
+With your sword in its scabbard,<N>without -targeting, press  as<N>your enemy draws near.
+-target the enemy and then<N>press, hold, and release .
+With your life energy full, perform a<N>spin attack. (Either press, hold, and<N>release , or rotate  and press .)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So...you're ...right?
+Sorry about giving you so much<N>trouble before. I'm not proud of it,<N>but it's in my genes to obey anyone<N>who blows a reed. How sad...
+I'll tell you what... Next time, call<N>me like that when you need<N>something. Who knows? I might be<N>able to help you out!
+Hey there, .<N>I hope that you'll call on me again<N>someday. I'll help you out!
+So...you're ...right?
+Sorry about giving you so much<N>trouble before. I'm not proud of it,<N>but it's in my genes to obey anyone<N>who blows a reed. How sad...
+To make up for it, I'd be happy to<N>take a look around and see if<N>there are any nearby items that<N>might interest you!
+Let me make up for that mess<N>earlier by pointing out any<N>wonderful items around here!
+, there's nothing<N>around here.
+Hey! There's something near here,<N>!
+Your voice... It sounded just like a<N>reed... That's why I flew down.
+
+
+Writing to amiibo...<N>Do not remove it from .
+
+This amiibo is not supported.
+This amiibo already contains<N>quick-start data from another user.<N>Would you like to register quick-start<N>data from the current user?
+Use this amiibo on the Collection Screen.
+No quick-start data available.
+The Wolf Link amiibo cannot access the<N>Cave of Shadows right now! Try again later.
+The quick-start option on this amiibo<N>has been registered to a different user.
+The amiibo data is corrupted.<N>You may be able to restore the data<N>if you have a Nintendo device that<N>has accessed this amiibo before.<N>Otherwise, please reset this amiibo<N>via amiibo Settings in System Settings.
+Please register an owner and<N>nickname for this amiibo.
+This amiibo already has game data from<N>another game written to it. To use this amiibo,<N>the other game data must first be deleted.<N><N>You can delete the game data from<N>amiibo Settings in System Settings.
+This data is corrupted.<N>Would you like to restore it using<N>data saved on the console?
+The quick-start option is now functional.
+Register the Wolf Link amiibo by touching<N>it to  on the Wii U GamePad.
+Would you like to register this Quest Log<N>as your quick-start data?
+This amiibo already contains quick-start data.<N>Would you like to assign this Quest Log instead?
+Please touch your amiibo to <N>on the Wii U GamePad.
+Data has been written successfully!<N>You can now remove your amiibo.
+You can use the quick-start option by touching<N>this amiibo to the Wii U GamePad on the title screen.<N>
+Could not write to amiibo.<N>Please try touching it to  again.
+Please use the same amiibo as before.
+The amiibo functionality has been enabled.<N>Try placing an amiibo on .
+A new wolf challenge has been unlocked.
+A new wolf challenge has been unlocked.
+This character may not be used<N>in the Cave of Shadows.
+Hearts have been replenished.
+Arrows have been replenished.
+Once you have the Hero's Bow, your arrows<N>can be replenished once a day.
+Do you want to double the damage you take?<N>This effect will last until you quit the game<N>or receive a game over.
+Do you want to double the damage you<N>take again? This effect will last until<N>you quit the game or receive a game over.
+This amiibo has already been used today.
+You cannot use this amiibo again<N>until the next time you enter the Cave of Shadows.
+Damage you take is already doubled.
+Link and Zelda amiibo can be used<N>up to ten times per day in total.
+
+
+Yes
+No
+Cancel
+
+Register
+Settings
+Settings
+Please touch your amiibo to .
+You have stored hearts within the Wolf Link<N>amiibo. Scan it while on the Collection screen<N>in the Cave of Shadows to replenish as many<N>hearts as you have stored.
+You have stored hearts within the Wolf Link<N>amiibo. You can remove it from  now.
+This is a different amiibo than the one<N>used to enter the Cave of Shadows.
+
+This amiibo cannot be used yet.
+To write the game data to your amiibo,<N>please place your Wolf Link amiibo on .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You caught a greengill ()!<N>These small fry are everywhere.<N><N><N>Press  to check the fish<N>you've caught on the Collection<N>screen.
+You caught a greengill ()!<N>These small fry are everywhere.<N>You can catch these whenever you<N>want, so let this one go.
+You caught a greengill ()!<N>These small fry are everywhere.<N><N><N>This one sets a new size record!<N>The record in the fish journal<N>has been updated. Let the little<N>guy go with .
+That's a Hyrule bass ()!<N>For fishing enthusiasts, this fish<N>is one of the basics.<N><N>Press  to check the fish<N>you've caught on the Collection<N>screen. Let this little guy go<N>with .
+That's a Hyrule bass ()!<N><N><N><N>For fishing enthusiasts, this fish<N>is one of the basics. Let this little<N>guy go with .
+That's a Hyrule bass ()!<N>For fishing enthusiasts, this fish<N>is one of the basics.<N><N>This one sets a new size record!<N>The record in the fish journal<N>has been updated. Let this guy<N>go with .
+That's a Hylian pike ()!<N>These have been gaining in<N>popularity lately.<N><N>Press  to check the fish<N>you've caught on the Collection<N>screen. Release it with .
+That's a Hylian pike ()!<N>These have been gaining in<N>popularity lately. Release it with .
+That's a Hylian pike ()!<N>These have been gaining in<N>popularity lately.<N><N>This one sets a new size record!<N>The record in the fish journal<N>has been updated. Release it with<N>.
+That's a Hylian loach ()!<N>It's the fry of a legendary fish...<N><N><N>Press  to check the fish<N>you've caught on the Collection<N>screen. Release this one with ,<N>and catch it when it's grown!
+That's a Hylian loach ()!<N>It's the fry of a legendary fish...<N><N><N>Release this one with , and<N>catch it when it's grown!
+That's a Hylian loach ()!<N>It's the fry of a legendary fish...<N><N><N>This one sets a new size record!<N>The record in the fish journal<N>has been updated. Release it with<N>, and catch it when it's grown!
+That's an Ordon catfish ()!<N>From Ordon like !<N><N><N>Press  to check the fish<N>you've caught on the Collection<N>screen. Release this one with .
+That's an Ordon catfish ()!<N>From Ordon like !<N><N><N>Release this one with .
+That's an Ordon catfish ()!<N>From Ordon like !<N><N><N>This one sets a new size record!<N>The record in the fish journal<N>has been updated. Release this one<N>with .
+You caught a boot...<N>Well, it's no fish, but it's<N>good for the environment! Dispose<N>of it with .
+You caught another boot...<N>Will there ever be a day when<N>people don't throw boots away<N>like this?<N>Dispose of it with .
+You caught a bag of Rupees!<N>You don't know who dropped it,<N>so it's OK to keep it. Open it with<N> to find out how much is inside!
+You caught a sinking lure!<N>This prohibited item is forbidden<N>in fish ponds...but it shines and<N>should be good for fishing!<N>Press  to take it, and you can<N>use it the next time you go lure<N>fishing.
+You caught a skullfish!<N>It looks stronger than it is...<N><N><N>This fish is forbidden, so it won't<N>be added to your fish journal.
+You caught a bombfish!<N>This handy fish can be used as<N>a bomb!<N><N>Actually, catching this fish is<N>forbidden, so it won't be added<N>to your fish journal. Press <N>to sneak it into your bomb bag.
+You caught an empty bottle!<N>Not only can you use this, but<N>it'll clean up the waterway in the<N>process. Two birds, one stone!<N>Press  to stow it with your<N>other items.
+You caught a wheel...<N>You didn't catch a fish, but at least<N>you helped the environment!<N>Dispose of it with .
+You caught an empty can...<N>Too bad it wasn't an empty bottle...<N>Help the environment and dispose<N>of it with .
+You caught a twig...<N>You didn't catch a fish, but<N>catching detritus is good practice.<N>Dispose of it with .
+You caught a bombfish!<N>It can be used as a bomb!<N>...But your bomb bag is full, so<N>you can't carry it.<N>This fish is forbidden, so it won't<N>be added to your fish journal.<N>Release it with .
+
+
+
+That's a reekfish ()!<N>This sacred fish is only found<N>near the Zora village. It...reeks.<N><N>You can see fish you've caught<N>by pressing  and viewing<N>the Collection screen.
+That's a reekfish ()!<N>This rare fish is only found near<N>the Zora village.<N><N>It...reeks.
+That's a reekfish ()!<N>This rare fish is only found near<N>the Zora village.<N><N>It...reeks. But you've set a new<N>size record! Your fish journal<N>has been updated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first time up the mountain was<N>rough, but now the portal can take<N>us there in an instant!
+The reekfish that the beast of<N>Snowpeak took...
+Maybe if we took a look at it, it'd<N>give us a clue...
+If the bridge being gone is the<N>handiwork of shadow creatures,<N>then they likely left it somewhere.
+Was there any place that stuck in<N>your memory? Look for somewhere<N>that grabs you!
+What's this? This village is really<N>muggy, huh?
+The spirit Eldin is at the spring in<N>Kakariko Village. Don't lollygag<N>around! Hurry up and save it!
+Hey, wasn't there a guy who knew a<N>lot about the people of the sky in<N>the bar in Castle Town?
+You could always ask again, you<N>know?
+I wonder if maybe that girl<N>remembered the story about that<N>rod of the heavens...
+That story about the messenger of<N>the sky with the rod... 
+Maybe we should go talk to that<N>woman...
+I can't read any book written in<N>Sky letters...
+What's that book say? Isn't there<N>someone who can read it?
+Well, I guess you just have to ask<N>that guy to read it for you.
+I get the feeling that little by little,<N>we're getting closer to the sky...
+Let's do what we can for now,<N>.
+I wonder what's hidden behind the<N>stone statue...<N>
+A cannon...huh?<N>
+I never expected to see something<N>weird like that...anywhere besides<N>that odd ride in Lake Hylia.
+All right, , let's go!
+We're close to the Mirror of<N>Twilight...
+All right. The second Fused Shadow<N>must be somewhere here on Death<N>Mountain.
+This is just one big pile of rocks.<N>I don't know where we'll find it,<N>so we'll just have to do a thorough<N>search!
+That Goron elder is hiding<N>something...
+Hey! Don't tell me you're afraid of<N>these Gorons all of a sudden! If<N>you can't sweet-talk 'em, you'll<N>have to power your way through!
+Hey! The horse is running in circles...<N>Looks like it's startled by the bombs!
+Look at your map and do something<N>before they drop another bomb!
+
+
+
+
+
+
+
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+You've already caught a bug like<N>this, so let's let this one go.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Collection/<N>Save
+Load Game
+Adjust until just visible
+Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hylian Letter A
+Hylian Letter B
+Hylian Letter C
+Hylian Letter D
+Hylian Letter E
+Hylian Letter F
+Hylian Letter G
+Hylian Letter H
+Hylian Letter I
+Hylian Letter J
+Hylian Letter K
+Hylian Letter L
+Hylian Letter M
+Hylian Letter N
+Hylian Letter O
+Hylian Letter P
+Hylian Letter Q
+Hylian Letter R
+Hylian Letter S
+Hylian Letter T
+Hylian Letter U
+Hylian Letter V
+Hylian Letter W
+Hylian Letter X
+Hylian Letter Y
+Hylian Letter Z
+Rupee
+Treasure Chest
+Piece of Heart
+Heart Container
+Happy Link
+Angry Link
+Sad Link
+Surprised Link
+Wolf Link
+Happy Midna
+Angry Midna
+Sad Midna
+Surprised Midna
+Ooccoo
+Happy Zelda
+Angry Zelda
+Sad Zelda
+Surprised Zelda
+Zant
+Agitha
+Malo Mart
+Cucco
+Fairy
+Twili Midna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+They ain't listenin' to me lately!
+Hey, where's ?
+Hey! !
+
+
+
+
+
+
+
+
+
+
+
+Oh, hi, .
+I washed  for you!
+
+
+
+
+
+
+
+
+
+
+Twilight covered Hyrule like a<N>shroud, and without light, the<N>people became as spirits.
+Within the twilight, they live on,<N>unaware that they have passed into<N>spirit forms...
+All the people know now is fear...<N>Fear of a nameless evil...
+
+
+
+
+
+
+
+
+
+
+You still have not discovered your<N>true power...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northeast of here, in the lands<N>guarded by the spirit Lanayru...
+
+
+The dark power that you seek is<N>within the sleeping Lakebed Temple<N>in Lake Hylia...
+
+
+
+
+
+So you say the bridge to the west<N>has been destroyed, huh? Then our<N>only option is to cross the bridge<N>to the east.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So you choose. And so you shall<N>feel my wrath!
+
+An impressive-looking blade...
+But nothing more.
+Would you hear my desire?
+To take this foul blade...and use<N>it to blot out the light forever!
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'll try to slow Ganondorf with my<N>light arrows!
+You target him and keep him within<N>range of my arrows!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Memory Card in Slot A contains a<N>save file for this game.<N><N>Do you want to copy the save file<N>to the Wii System Memory?
+YES
+NO
+There is no save file for this game<N>on the Memory Card in Slot A.<N>The save file in the Wii System<N>Memory will be loaded.
+All data currently in the<N>Wii System Memory for this game will<N>be written over. Is this OK?<N>
+YES
+NO
+Copying...
+Do not touch the Memory Card in<N>Slot A or the Power Button.
+Copy complete.
+The save file could not be copied.
+There is no Memory Card in Slot A.<N><N>If you still want to copy a<N>Memory Card save file to the Wii<N>System Memory, please try again.
+
+
+
+
+
+Saving... Do not turn off the console.
+Checking Wii System Memory...
+
+Continue without saving?
+Yes
+No
+The Wii System Memory is corrupted.<N><N><N>Refer to the Wii Operations Manual<N>for more information.
+This game's save file is corrupted<N>and must be erased.<N><N>Erase the save file now?
+Yes
+No
+Formatting...<N><N>Do not touch the Power Button.
+The save file has been formatted.
+The save file could not be formatted.
+The Wii System Memory does not have<N>enough free space. This game<N>requires 1 open block to save.<N><N>Please use the Data Management<N>screen to erase data or move data<N>to an SD Card.
+The Wii System Memory does not<N>have enough empty files.<N><N>Please use the Data Management<N>screen to erase data or move data<N>to an SD Card.
+Return to the Wii Menu?
+Yes
+No
+Create a save file for this game in the<N>Wii System Memory?
+Yes
+No
+There isn't a save file for this game<N>in the Wii System Memory.
+Creating a file.<N><N>Do not touch the Power Button.
+The save file could not be created.
+A save file has been created.
+Choose a Quest Log.
+The Quest Log is corrupted.<N>Erase it?
+Yes
+No
+Erasing...<N>Do not touch the Power Button.
+Erase this Quest Log?
+
+
+The file could not be erased.
+Erased.
+The file could not be copied.
+Copy to where?
+Copy this Quest Log?
+Copying...<N>Do not touch the Power Button.
+Copy complete.
+
+
+
+The game cannot be saved.<N>The Wii System Memory is corrupted.<N><N>Refer to the Wii Operations Manual<N>for more information. 
+Unable to save...<N><N>The save file for this game is<N>corrupted and needs to be erased.<N>Erase the file now?
+Yes
+No
+Unable to save. Continue without<N>saving?
+Yes
+No
+Formatting...<N><N>Do not touch the Power Button.
+The file has been formatted.
+The file could not be formatted.
+Unable to save. There isn't enough<N>empty space in the Wii System<N>Memory. This game requires 1 open<N>block to save.<N><N>Use the Data Management screen to<N>erase data or move it to an SD Card.
+Unable to save. There aren't enough<N>empty files in the Wii System<N>Memory.<N><N>Use the Data Management screen to<N>erase data or move it to an SD Card.
+Go back to the Wii Menu?
+Yes
+No
+You will not be able to save your<N>progress. Continue without saving?
+Yes
+No
+Unable to save.<N><N>The Wii System Memory does not<N>contain a save file for this game.
+Would you like to create a save file for<N>this game in the Wii System Memory?
+Yes
+No
+Creating a file...<N><N>Do not touch the Power Button.
+A save file could not be created.
+A file has been created.
+A file has been created.
+Choose a Quest Log.
+Overwrite this Quest Log?
+Saving...<N>Do not touch the Power Button.
+The game could not be saved.
+The game has been saved. Do you<N>want to continue?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does this...connect to outside?
+ENEMY PROGRAMMING<N>Takamitsu Kuzuhara<N>Keigo Nakanishi<N>Hisashi Okada<N>Atsushi Yamazaki
+OBJECT PROGRAMMING<N>Kouji Sakai<N>Norihisa Ashida
+NPC PROGRAMMING<N>Nobuhiro Sumiyoshi<N>Masayuki Kuwajima<N>Takashi Yoshimi<N>Keiji Takahashi
+TECHNICAL PROGRAMMING<N>Kenzo Hayakawa<N>Kenji Matsutani<N><N>CAMERA PROGRAMMING<N>Masatoshi Ogawa
+ART DIRECTOR<N>Satoru Takizawa<N><N>PLAYER DESIGN<N>Keisuke Nishimori
+ENEMY DESIGN LEAD<N>Yoshiyuki Oyama<N><N>ENEMY DESIGN<N>Yasutomo Nishibe<N>Takafumi Kiuchi<N>Rikuto Yoshida
+CHARACTER DESIGN LEAD<N>Satomi Asakawa<N><N>CHARACTER DESIGN<N>Michiko Iwasawa<N>Tsubasa Sakaguchi<N>Daisuke Watanabe<N>Tomomi Marunami
+FIELD DESIGN LEAD<N>Atsushi Miyagi<N><N>FIELD DESIGN<N>Eiji Mukao<N>Hanako Hisada
+FIELD DESIGN<N>Takuro Shimizu<N>Masahiro Kawanishi<N>Mizue Suetake
+DUNGEON DESIGN<N>Hiromu Takemura<N>Shinko Takeshita<N>Akito Osanai<N>Kazunori Hashimoto
+EFFECT DESIGN<N>Haruyasu Ito<N>Yoko Fukuda
+UI DESIGN<N>Tokihiko Toyoda<N>Mei Ide<N><N>MAIN CHARACTER DESIGN/<N>ILLUSTRATION<N>Yusuke Nakano
+3-D PLAYER ANIMATION<N>Marumi Nakajo<N>Yuko Yoshimura
+3-D ENEMY/CHARACTER ANIMATION<N>Takeshi Yamaguchi<N>Chikako Nishizaki<N>Takeshi Arima<N>Hiroki Motoshiromizu<N>Mieko Ajima
+3-D ENEMY/CHARACTER ANIMATION<N>Kimihiro Ozaki<N>Hiroki Ishibashi
+3-D CINEMA SCENE ANIMATION<N>Hiroko Ihara<N>Satoru Yasumura<N>Takahiro Koizumi<N>Katsuki Hisanaga<N>Kazuhide Hiura<N>Masayuki Kawakita
+3-D ENEMY/CHARACTER MODELING<N>Hiroyuki Inoue<N>Yasutaka Maeki<N>Masanori Esaki
+3-D ENEMY/CHARACTER MODELING<N>Takumi Ishii<N>Kazuhiro Saito<N>Shunsuke Yamamoto
+3-D FIELD/DUNGEON MODELING<N>Shunichi Shirai<N>Sanae Suzuki<N>Tomoko Kusano<N>Ritsuko Tanaka<N>Mizuki Tashima
+3-D FIELD/DUNGEON MODELING<N>Mari Fujita<N>Kyohei Yamaguchi<N>Mariko Sanefuji<N>Masami Naito
+3-D OBJECT MODELING<N>Mutsumi Oda<N>Fumihiro Matsumoto
+CINEMA SCENE DIRECTORS<N>Mitsuhiro Takano<N>Takumi Kawagoe
+CINEMA SCENE PLANNING<N>Shigeki Yoshida<N>Daisuke Nobori<N>Hiroyasu Kuwabara
+CINEMA SCENE PLANNING<N>Hitoshi Kobayashi<N>Eriko Kimura<N>Chiaki Aida<N>Naoki Mori
+MOTION CAPTURE<N>Koichi Natsuyama<N>Hitomi Hiraki<N>Miwa Hashiguchi
+MUSIC<N>Toru Minegishi<N>Asuka Ota<N>Koji Kondo
+SOUND EFFECTS/PROGRAMMING<N>Takahiro Watanabe<N>Yohei Miyagawa<N>Atsushi Masaki<N>Mitsuhiro Kida
+VOICE<N>Akira Sasanuma<N>Akiko Koumoto<N>Hironori Miyata<N>Junji Kitajima<N>Jun Mizusawa<N>Takeharu Onishi
+VOICE<N>Juri Takita<N>Sayaka Aida<N>Hiromi Hirata<N>Naomi Wakabayashi
+TEASER MUSIC ORCHESTRATION<N>MUSIC<N>Mahito Yokota<N><N>ARRANGEMENT<N>Michiru Oshima
+PROGRESS MANAGEMENT<N>Keizo Kato
+SUPERVISORS<N>Takashi Tezuka<N>Toshihiko Nakago
+TECHNICAL SUPPORT<N>Hironobu Kakui<N>Yoshito Yasuda<N>Shingo Okamoto
+DEBUG<N>Ryosuke Yamada<N>Naoki Takami<N>Super Mario Club
+PROGRAMMING SUPPORT<N>Masato Kimura<N>Shinichi Sasaki<N>Masafumi Kawamura<N>Hideaki Shimizu<N>Programming Support Group
+LOCALIZATION MANAGEMENT<N>Jeff Miller<N>Leslie Swan<N>Bill Trinen
+LOCALIZATION<N>Nate Bihldorff<N>Reiko Ninomiya<N>Scot Ritchey
+PRODUCT TESTING<N>Shuji Hashimoto<N>Robert Crombie<N>Kyle Hudson<N>Eric Bush
+PRODUCT TESTING<N>Sean Egan<N>Thomas Hertzog<N>Mika Kurosawa<N>Teresa Lillygren
+PRODUCT TESTING<N>Tomoko Mikami<N>Kathy Huguenard<N>Jeffrey Storbo
+SPECIAL THANKS<N>Yuri Adachi<N>Jin Ikeda<N>Yoji Inagaki<N>Keijiro Inoue<N>Keizo Ota<N>Yoshinori Kiuchi<N>Shinya Kitai
+SPECIAL THANKS<N>Keiko Kinoshita<N>Tomoaki Kuroume<N>Hiroyasu Sasano<N>Kaoru Sato<N>Takao Shimizu<N>Tadashi Sugiyama
+SPECIAL THANKS<N>Toshiaki Suzuki<N>Shinya Takahashi<N>Masahiro Takeguchi<N>Takuhiro Dohta<N>Takahiro Hamaguchi<N>Yoshiki Haruhana
+SPECIAL THANKS<N>Shunsuke Makita<N>Keisuke Matsui<N>Yumiko Matsumiya<N>Shigehiro Kasamatsu<N>Kiyoshi Koda<N>Atsushi Nishiwaki
+SPECIAL THANKS<N>Kunihiro Komatsu<N>Masaro Sakakibara<N>Gentaro Takaki<N>Hiromichi Miyake<N>Yuji Sawatani<N>Takafumi Noma<N>Kei Uramoto
+SPECIAL THANKS<N>SRD<N>DIGITALSCAPE Co., Ltd.<N>JAE<N>Sanda Heartland Ranch
+PRODUCER<N>Shigeru Miyamoto
+EXECUTIVE PRODUCER<N>Satoru Iwata
+Nintendo is the author of this software<N>for the purpose of copyright.<N>All rights reserved.<N><N>© 2006-2015 Nintendo
+The End
+
+
+The Legend of Zelda: Twilight Princess HD<N>STAFF CREDITS
+Tantalus
+PROJECT MANAGEMENT<N>Joss Ellis<N>Tom Crago
+LEAD PROGRAMMING<N>Sean O'Sullivan
+PROGRAMMING<N>Daniel Bower<N>Allen Weeks<N>Bradey Smith<N>Carl Sandland
+SOUND PROGRAMMING<N>Geoff Browitt<N><N>GAME DESIGN SUPPORT<N>Adrian Moore
+LEAD ART DIRECTOR<N>Paul Court<N><N>ART DIRECTORS<N>Parot Dhiraputra<N>Emily McGregor
+MENU DESIGN<N>Jarad Spicer
+QUALITY ASSURANCE<N>David Doe<N>Jeanne-Clare Storace<N>Scott Foran
+ADDITIONAL ART
+ART PROGRESS MANAGEMENT<N>Brad May<N>Garth Midgley<N><N>ADDITIONAL ART DIRECTOR<N>Oberon Bradford
+TECHNICAL SUPPORT<N>Tung Nguyen<N>Fotini Ioannidis<N><N>LEAD GRAPHICS DESIGN<N>Nick Hower<N>Jack Crosby
+GRAPHICS DESIGN<N>Ayden Polat<N>Dylan Beazley<N>Clayton Barton<N>Trent Denham<N>Mel Guzzardi<N>Shenae Guzzardi
+GRAPHICS DESIGN<N>Hayden Desailly<N>Paco Casares<N>Mary Jane Kim<N>Thomas Hernandez<N>Blake Hollins<N>Stephen Jeal
+GRAPHICS DESIGN<N>Pino Gengo<N>Brad Nestor<N>Ian Bright<N>Sebastian Larsson<N>Ray Leung
+ENDING MUSIC ARRANGEMENT<N>Michiru Oshima
+Nintendo
+ART SUPERVISOR<N>Satoru Takizawa<N><N>PROGRAM SUPERVISORS<N>Takuhiro Dohta<N>Kenji Yamamoto
+SOUND SUPERVISORS<N>Takahiro Watanabe<N>Toru Minegishi<N><N>STAMP DESIGN<N>Yusuke Nakano
+STAMP EDITING<N>Masahiko Mashimo<N><N>ARTWORK<N>Kazuya Yoshioka<N><N>MANUAL EDITING<N>Jonghoon Park
+COORDINATION<N>Kiyohiko Ando<N>Paul Logue<N>Tomohiro Yamamura
+ASSISTANT DIRECTOR<N>Tomomi Sano
+Nintendo of America
+NOA LOCALIZATION MANAGEMENT<N>Leslie Swan<N>Nate Bihldorff<N>Scot Ritchey
+NOA LOCALIZATION<N>David Carrasco LÛpez<N>Ryan Nathaniel Kelley<N>Scott Willson<N>ThaddÈe Wiseur
+Nintendo of Europe
+NOE LOCALISATION MANAGEMENT<N>Fabrizio Cattaneo<N>Michael O'Connor
+NOE LOCALISATION<N>Araceli MazÛn Figueroa<N>Greg T. Sadownik<N>Pete Sheppard<N>David CaussËque<N>Natacha Faubert<N>Arne Glinka
+NOE LOCALISATION<N>Sven Pˆtzl<N>Bruno Gramigna<N>Giaime Carbonara<N>Cristina Sol‡ Picas<N>Ra˙l Guerrero Plaza
+
